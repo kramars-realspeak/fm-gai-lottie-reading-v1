@@ -1,0 +1,45 @@
+{ "words" :
+
+    {
+        "enjoy" : {"definition" : " " },
+
+        "mind" : {"definition" : " " },
+
+        "hate" : {"definition" : " " },
+
+        "dislike" : {"definition" : " " },
+
+        "avoid" : {"definition" : " " },
+
+        "imagine" : {"definition" : " " },
+
+        "considered" : {"definition" : " " },
+
+        "recommend" : {"definition" : " " },
+
+        "suggest" : {"definition" : " " },
+
+        "hope" : {"definition" : " " },
+
+        "agree" : {"definition" : " " },
+
+        "intend" : {"definition" : " " },
+
+        "offered" : {"definition" : " " },
+
+        "attempted" : {"definition" : " " },
+
+        "promised" : {"definition" : " " },
+
+        "insisted on" : {"definition" : " " },
+
+        "asked for" : {"definition" : " " },
+
+        "demanded" : {"definition" : " " },
+
+        "thinking of" : {"definition" : " " },
+
+        "blamed for" : {"definition" : " " }
+
+    }
+}

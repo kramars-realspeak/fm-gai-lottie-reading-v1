@@ -1,0 +1,18 @@
+[
+    {
+    "food": {
+        "unpredictable": ["she loves changing her diet and trying new things"],
+        "meat": ["schintzel", "special type of schintzel called 'obrateny rezen' "]
+    }, 
+    "movies": {
+        "cartoons": ["Ballerina 20216 3D", "musical adventure comedy"],
+        "DIY": ["funny videos", "craft videos", "dancing videos"]
+    },
+    "dancing": {
+        "ballet" : [ "attends ballet lessons for 3 days", "strong friendgroup", "attends competitions with this" ]
+    }, 
+    "musical instruments": {
+        "violin" : ["it was"]
+}
+    }
+]

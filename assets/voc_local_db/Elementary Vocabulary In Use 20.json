@@ -1,0 +1,37 @@
+{ "words" :
+
+    {
+        "search" : {"definition" : " " },
+
+        "colour" : {"definition" : " " },
+
+        "size" : {"definition" : " " },
+
+        "cotton T-shirt" : {"definition" : " " },
+
+        "price" : {"definition" : " " },
+
+        "delivery" : {"definition" : " " },
+
+        "reviews" : {"definition" : " " },
+
+        "today's date" : {"definition" : " " },
+
+        "your order" : {"definition" : " " },
+
+        "order number" : {"definition" : " " },
+
+        "delivery address" : {"definition" : " " },
+
+        "post code" : {"definition" : " " },
+
+        "zip code" : {"definition" : " " },
+
+        "shop online" : {"definition" : " " },
+
+        "online reviews" : {"definition" : " " },
+
+        "credit card" : {"definition" : " " }
+        
+    }
+}

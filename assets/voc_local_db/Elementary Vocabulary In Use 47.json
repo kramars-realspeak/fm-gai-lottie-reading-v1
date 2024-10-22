@@ -1,0 +1,59 @@
+{ "words" :
+
+    {
+        "wake up" : {"definition" : " " },
+
+        "get up" : {"definition" : " " },
+
+        "go to the bathroom" : {"definition" : " " },
+
+        "have a shower" : {"definition" : " " },
+
+        "have breakfast" : {"definition" : " " },
+
+        "listen to the radio" : {"definition" : " " },
+
+        "go to work" : {"definition" : " " },
+
+        "come home" : {"definition" : " " },
+
+        "make dinner" : {"definition" : " " },
+
+        "phone a friend" : {"definition" : " " },
+
+        "call a friend" : {"definition" : " " },
+
+        "watch TV" : {"definition" : " " },
+
+        "go to bed" : {"definition" : " " },
+
+        "wash clothes" : {"definition" : " " },
+
+        "clean the house" : {"definition" : " " },
+
+        "go for a walk" : {"definition" : " " },
+
+        "write letters" : {"definition" : " " },
+
+        "write emails" : {"definition" : " " },
+
+        "How often do you ... ?" : {"definition" : " " },
+
+        "Three or four times a week." : {"definition" : " " },
+
+        "What time do you ... ?" : {"definition" : " " },
+
+        "At 7 o'clock normally." : {"definition" : " " },
+
+        "How do you ... ?" : {"definition" : " " },
+
+        "Usually by bus" : {"definition" : " " },
+
+        "train" : {"definition" : " " },
+
+        "car" : {"definition" : " " },
+
+        "I usually get up ..." : {"definition" : " " }
+
+    }
+}

@@ -1,0 +1,57 @@
+{ "words" :
+
+    {
+        "weather" : {"definition" : " " },
+
+        "cloud" : {"definition" : " " },
+
+        "rain" : {"definition" : " " },
+
+        "rainbow" : {"definition" : " " },
+
+        "snow" : {"definition" : " " },
+
+        "wind" : {"definition" : " " },
+
+        "moon" : {"definition" : " " },
+
+        "sky" : {"definition" : " " },
+
+        "star" : {"definition" : " " },
+
+        "sun" : {"definition" : " " },
+
+        "painting" : {"definition" : " " },
+
+        "painting class" : {"definition" : " " },
+
+        "fly a kite" : {"definition" : " " },
+
+        "get wet" : {"definition" : " " },
+
+        "rain" : {"definition" : " " },
+
+        "snow" : {"definition" : " " },
+
+        "cloudy" : {"definition" : " " },
+
+        "cold" : {"definition" : " " },
+
+        "double" : {"definition" : " " },
+
+        "fantastic" : {"definition" : " " },
+
+        "hot" : {"definition" : " " },
+
+        "sunny" : {"definition" : " " },
+
+        "windy" : {"definition" : " " },
+
+        "Well done!" : {"definition" : " " },
+
+        "Oh dear!" : {"definition" : " " },
+
+        "What's ... like?" : {"definition" : " " }
+
+    }
+}

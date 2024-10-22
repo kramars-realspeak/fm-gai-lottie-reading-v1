@@ -1,0 +1,43 @@
+{ "words" :
+
+    {
+        "flower" : {"definition" : " " },
+
+        "wall" : {"definition" : " " },
+
+        "story" : {"definition" : " " },
+
+        "drink" : {"definition" : " " },
+
+        "have got" : {"definition" : " " },
+
+        "hold" : {"definition" : " " },
+
+        "learn about" : {"definition" : " " },
+
+        "like" : {"definition" : " " },
+
+        "love" : {"definition" : " " },
+
+        "read" : {"definition" : " " },
+
+        "beautiful" : {"definition" : " " },
+
+        "funny" : {"definition" : " " },
+
+        "happy" : {"definition" : " " },
+        
+        "sad" : {"definition" : " " },
+
+        "scary" : {"definition" : " " },
+
+        "silly" : {"definition" : " " },
+
+        "ugly" : {"definition" : " " },
+
+        "really" : {"definition" : " " },
+
+        "very" : {"definition" : " " }
+
+    }
+}

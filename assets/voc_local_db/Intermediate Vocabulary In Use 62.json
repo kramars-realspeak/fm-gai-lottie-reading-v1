@@ -1,0 +1,61 @@
+{ "words" :
+
+    {
+        "miles" : {"definition" : " " },
+
+        "yards" : {"definition" : " " },
+
+        "feet" : {"definition" : " " },
+
+        "inches" : {"definition" : " " },
+
+        "away" : {"definition" : " " },
+
+        "nearest" : {"definition" : " " },
+
+        "just round the corner" : {"definition" : " " },
+
+        "ten minutes walk" : {"definition" : " " },
+
+        "quite a long way" : {"definition" : " " },
+
+        "at least" : {"definition" : " " },
+
+        "couple of" : {"definition" : " " },
+
+        "tall" : {"definition" : " " },
+
+        "high" : {"definition" : " " },
+
+        "length" : {"definition" : " " },
+
+        "long" : {"definition" : " " },
+
+        "width" : {"definition" : " " },
+
+        "wide" : {"definition" : " " },
+
+        "height" : {"definition" : " " },
+
+        "high" : {"definition" : " " },
+
+        "depth" : {"definition" : " " },
+
+        "deep" : {"definition" : " " },
+
+        "thick" : {"definition" : " " },
+
+        "huge" : {"definition" : " " },
+
+        "giant" : {"definition" : " " },
+
+        "narrow" : {"definition" : " " },
+
+        "enormous" : {"definition" : " " },
+
+        "thin" : {"definition" : " " },
+
+        "tiny" : {"definition" : " " }
+
+    }
+}

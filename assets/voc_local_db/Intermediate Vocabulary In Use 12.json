@@ -1,0 +1,61 @@
+{ "words" :
+
+    {
+        "emotion" : {"definition" : " " },
+
+        "feeling" : {"definition" : " " },
+
+        "emotional person" : {"definition" : " " },
+
+        "proud of" : {"definition" : " " },
+
+        "disappointed" : {"definition" : " " },
+
+        "confused" : {"definition" : " " },
+
+        "hopeful" : {"definition" : " " },
+
+        "curious" : {"definition" : " " },
+
+        "anxious" : {"definition" : " " },
+
+        "scared" : {"definition" : " " },
+
+        "jealous" : {"definition" : " " },
+
+        "upset" : {"definition" : " " },
+
+        "frightened" : {"definition" : " " },
+
+        "pride" : {"definition" : " " },
+
+        "jealousy" : {"definition" : " " },
+
+        "curiosity" : {"definition" : " " },
+
+        "disappointment" : {"definition" : " " },
+
+        "confusion" : {"definition" : " " },
+
+        "anxiety" : {"definition" : " " },
+
+        "cheerful" : {"definition" : " " },
+
+        "miserable" : {"definition" : " " },
+
+        "depressed" : {"definition" : " " },
+
+        "mood" : {"definition" : " " },
+
+        "energetic" : {"definition" : " " },
+
+        "anger" : {"definition" : " " },
+
+        "caring for" : {"definition" : " " },
+
+        "stress" : {"definition" : " " },
+
+        "creative" : {"definition" : " " }
+
+    }
+}

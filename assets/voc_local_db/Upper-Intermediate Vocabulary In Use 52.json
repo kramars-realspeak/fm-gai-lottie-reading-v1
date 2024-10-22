@@ -1,0 +1,61 @@
+{ "words" :
+
+    {
+        "circular" : {"definition" : " " },
+
+        "square" : {"definition" : " " },
+
+        "pentagon" : {"definition" : " " },
+
+        "octagon" : {"definition" : " " },
+
+        "rectangle" : {"definition" : " " },
+
+        "oval" : {"definition" : " " },
+
+        "triangle" : {"definition" : " " },
+
+        "right angles" : {"definition" : " " },
+
+        "sides" : {"definition" : " " },
+
+        "diameter" : {"definition" : " " },
+
+        "semi-circle" : {"definition" : " " },
+
+        "radius" : {"definition" : " " },
+
+        "circumference" : {"definition" : " " },
+        
+        "hemispheres" : {"definition" : " " },
+
+        "sphere" : {"definition" : " " },
+
+        "cube" : {"definition" : " " },
+
+        "pyramid" : {"definition" : " " },
+
+        "spiral" : {"definition" : " " },
+
+        "addition" : {"definition" : " " },
+
+        "subtraction" : {"definition" : " " },
+
+        "multiplication" : {"definition" : " " },
+
+        "division" : {"definition" : " " },
+
+        "times" : {"definition" : " " },
+
+        "multiplied by" : {"definition" : " " },
+
+        "pentagonal" : {"definition" : " " },
+
+        "rectangular" : {"definition" : " " },
+
+        "triangular" : {"definition" : " " },
+
+        "octagonal" : {"definition" : " " }
+        
+    }
+}

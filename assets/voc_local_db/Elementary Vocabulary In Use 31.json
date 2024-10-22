@@ -1,0 +1,87 @@
+{ "words" :
+
+    {
+        "horse" : {"definition" : " " },
+
+        "chicken" : {"definition" : " " },
+
+        "pig" : {"definition" : " " },
+
+        "sheep" : {"definition" : " " },
+
+        "goat" : {"definition" : " " },
+
+        "cow" : {"definition" : " " },
+
+        "hen" : {"definition" : " " },
+
+        "hair" : {"definition" : " " },
+
+        "meat" : {"definition" : " " },
+
+        "milk" : {"definition" : " " },
+
+        "leather" : {"definition" : " " },
+
+        "beef" : {"definition" : " " },
+
+        "lamb" : {"definition" : " " },
+
+        "pork" : {"definition" : " " },
+
+        "bacon" : {"definition" : " " },
+
+        "ham" : {"definition" : " " },
+
+        "wool" : {"definition" : " " },
+
+        "eggs" : {"definition" : " " },
+
+        "foal" : {"definition" : " " },
+
+        "calf" : {"definition" : " " },
+
+        "piglet" : {"definition" : " " },
+
+        "chick" : {"definition" : " " },
+
+        "kid" : {"definition" : " " },
+
+        "monkey" : {"definition" : " " },
+
+        "elephant" : {"definition" : " " },
+
+        "snake" : {"definition" : " " },
+
+        "lion" : {"definition" : " " },
+
+        "tiger" : {"definition" : " " },
+
+        "giraffe" : {"definition" : " " },
+
+        "pets" : {"definition" : " " },
+
+        "tortoise" : {"definition" : " " },
+
+        "dog" : {"definition" : " " },
+
+        "parrot" : {"definition" : " " },
+
+        "bird" : {"definition" : " " },
+
+        "rabbit" : {"definition" : " " },
+
+        "cat" : {"definition" : " " },
+
+        "fish" : {"definition" : " " },
+
+        "take for a walk" : {"definition" : " " },
+
+        "feed your animals" : {"definition" : " " },
+
+        "give them water" : {"definition" : " " },
+
+        "Do you have any pets?" : {"definition" : " " }
+        
+    }
+}

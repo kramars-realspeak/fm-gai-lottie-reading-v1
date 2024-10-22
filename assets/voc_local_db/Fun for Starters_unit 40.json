@@ -1,0 +1,41 @@
+{ "words" :
+
+    {
+        "afternoon" : {"definition" : " " },
+        
+        "day" : {"definition" : " " },
+
+        "evening" : {"definition" : " " },
+
+        "morning" : {"definition" : " " },
+
+        "night" : {"definition" : " " },
+
+        "get up" : {"definition" : " " },
+
+        "go to bed" : {"definition" : " " },
+
+        "go to sleep" : {"definition" : " " },
+
+        "put on clothes" : {"definition" : " " },
+
+        "say goodbye" : {"definition" : " " },
+
+        "wash" : {"definition" : " " },
+
+        "at night" : {"definition" : " " },
+
+        "in the morning" : {"definition" : " " },
+
+        "When?" : {"definition" : " " },
+
+        "Good afternoon!" : {"definition" : " " },
+
+        "Good morning!" : {"definition" : " " },
+
+        "Hello!" : {"definition" : " " },
+
+        "Hi!" : {"definition" : " " }
+        
+    }
+}

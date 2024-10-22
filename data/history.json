@@ -1,0 +1,4056 @@
+[
+    {
+        "id": "820d63e9-9223-40f1-a4ed-17a0d7c48b7f",
+        "media": {
+            "style": "photorealistic",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/820d63e9-9223-40f1-a4ed-17a0d7c48b7f"
+        },
+        "sentence": "When was the US Declaration of Independence signed?",
+        "correct_answer": "A",
+        "options": {
+            "A": "1776",
+            "B": "1789",
+            "C": "1800",
+            "D": "1812"
+        },
+        "group_alias": "BROK",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "justice",
+            "independence",
+            "liberty"
+        ],
+        "target_grammar": [
+            "present perfect continuous tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "62a358b0-c4f8-437b-9039-12bfce6b08f6",
+        "media": {
+            "style": "A vibrant, colorful landscape depicting a variety of animals in their natural habitats, including a zebra and a bee, with an emphasis on diversity and beauty of the world around us.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/62a358b0-c4f8-437b-9039-12bfce6b08f6",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "While travelling the world, Karin and Ivo discovered a delicious cheese made from fresh wild herbs! Which animal would you associate with this experience?",
+        "correct_answer": "A",
+        "options": {
+            "A": "Bee",
+            "B": "Zebra",
+            "C": "Lion",
+            "D": "Elephant"
+        },
+        "group_alias": "EMJS",
+        "cefr_level": "pre-a1",
+        "target_vocabulary": [
+            "meat",
+            "bear",
+            "bee",
+            "fly",
+            "insect",
+            "jellyfish",
+            "zebra",
+            "the world around us",
+            "grass",
+            "plant",
+            "fat",
+            "wild",
+            "get milk"
+        ],
+        "target_grammar": null,
+        "itokens": {
+            "114hanahitkova": [
+                {
+                    "food": {
+                        "pizza": [
+                            "cheese - cheap sauce tastes great but evokes good memories"
+                        ],
+                        "burger": [
+                            "patty, lettuce - good memories of childhood"
+                        ]
+                    }
+                }
+            ]
+        },
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 6 (7-13 October)",
+                    "book_title": "FUN for Starters UNIT 25",
+                    "title": "FUN for Starters UNIT 25",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1e9dtUgR2giTBASwQW6b6I7fLGT10Poi5/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "EMJS",
+                    "group_record": [
+                        13,
+                        "school1",
+                        "Emojis",
+                        "EMJS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-09-17",
+                "end_time": "2024-09-17 14:15:00",
+                "start_time": "2024-09-17 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "85karinrajtarova",
+                        "date_of_birth": null,
+                        "first_name": "Karin",
+                        "last_name": "Rajt\u00e1rov\u00e1"
+                    },
+                    {
+                        "alias": "86ivorubaninsky",
+                        "date_of_birth": null,
+                        "first_name": "Ivo",
+                        "last_name": "Rubaninsk\u00fd"
+                    },
+                    {
+                        "alias": "87matejkovac",
+                        "date_of_birth": null,
+                        "first_name": "Matej",
+                        "last_name": "Kov\u00e1\u010d"
+                    },
+                    {
+                        "alias": "88benjaminmlynka",
+                        "date_of_birth": "1900-01-01",
+                        "first_name": "Benjam\u00edn",
+                        "last_name": "Mlynka"
+                    },
+                    {
+                        "alias": "89michaelagalova",
+                        "date_of_birth": null,
+                        "first_name": "Michaela",
+                        "last_name": "Galov\u00e1"
+                    },
+                    {
+                        "alias": "114hanahitkova",
+                        "date_of_birth": null,
+                        "first_name": "Hana",
+                        "last_name": "Hitkov\u00e1"
+                    },
+                    {
+                        "alias": "161pavolbielik",
+                        "date_of_birth": null,
+                        "first_name": "Pavol",
+                        "last_name": "Bielik"
+                    },
+                    {
+                        "alias": "172katarinazapalacova",
+                        "date_of_birth": null,
+                        "first_name": "Katar\u00edna",
+                        "last_name": "Zapala\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "249janrichter",
+                        "date_of_birth": null,
+                        "first_name": "Jan",
+                        "last_name": "Richter"
+                    },
+                    {
+                        "alias": "329janzatko",
+                        "date_of_birth": "2014-10-02",
+                        "first_name": "Jan",
+                        "last_name": "Zatko"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": "cheese",
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "d5ae2cc8-61b1-4055-a8cc-f1ee24d2480e",
+        "media": {
+            "style": "A colorful illustration of a party scene featuring balloons, a round cake, and a box with a bat inside it.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d5ae2cc8-61b1-4055-a8cc-f1ee24d2480e",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What object is often seen at a birthday party and can be inflated?",
+        "correct_answer": "A",
+        "options": {
+            "A": "balloon",
+            "B": "bat",
+            "C": "box",
+            "D": "round"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "d5ae2cc8-61b1-4055-a8cc-f1ee24d2480e",
+        "media": {
+            "style": "A colorful illustration of a party scene featuring balloons, a round cake, and a box with a bat inside it.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d5ae2cc8-61b1-4055-a8cc-f1ee24d2480e",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What object is often seen at a birthday party and can be inflated?",
+        "correct_answer": "A",
+        "options": {
+            "A": "balloon",
+            "B": "bat",
+            "C": "box",
+            "D": "round"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "41011566-8263-4863-830e-cd94c337ca25",
+        "media": {
+            "style": "A colorful illustration of a living room with a big table at the center, a CD player on the table, and a bottle nearby. The setting appears cozy and inviting.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/41011566-8263-4863-830e-cd94c337ca25",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What should you add to the big table?",
+        "correct_answer": "B",
+        "options": {
+            "A": "A toy",
+            "B": "A CD player",
+            "C": "A book",
+            "D": "A chair"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "41011566-8263-4863-830e-cd94c337ca25",
+        "media": {
+            "style": "A colorful illustration of a living room with a big table at the center, a CD player on the table, and a bottle nearby. The setting appears cozy and inviting.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/41011566-8263-4863-830e-cd94c337ca25",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What should you add to the big table?",
+        "correct_answer": "B",
+        "options": {
+            "A": "A toy",
+            "B": "A CD player",
+            "C": "A book",
+            "D": "A chair"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "039e7696-0b9a-4b86-822b-2a95a636cbce",
+        "media": {
+            "style": "An illustration of a colorful outdoor scene showcasing various glass shapes filled with vibrant drinks under a bright sun, indicating a fun gathering.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/039e7696-0b9a-4b86-822b-2a95a636cbce",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What word describes this colorful glass filled with juice that you can see outside?",
+        "correct_answer": "B",
+        "options": {
+            "A": "Shape",
+            "B": "Present",
+            "C": "Brilliant!",
+            "D": "Outside"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "039e7696-0b9a-4b86-822b-2a95a636cbce",
+        "media": {
+            "style": "An illustration of a colorful outdoor scene showcasing various glass shapes filled with vibrant drinks under a bright sun, indicating a fun gathering.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/039e7696-0b9a-4b86-822b-2a95a636cbce",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What word describes this colorful glass filled with juice that you can see outside?",
+        "correct_answer": "B",
+        "options": {
+            "A": "Shape",
+            "B": "Present",
+            "C": "Brilliant!",
+            "D": "Outside"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "be155f94-9761-477b-8dc9-2b36f2dd1d8a",
+        "media": {
+            "style": "A colorful illustration of a child-friendly picnic scene featuring a bat, a round balloon, a glass of juice, and a group of children engaging with these items.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/be155f94-9761-477b-8dc9-2b36f2dd1d8a",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What is the shape of a balloon?",
+        "correct_answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Triangle",
+            "C": "Round",
+            "D": "Flat"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "be155f94-9761-477b-8dc9-2b36f2dd1d8a",
+        "media": {
+            "style": "A colorful illustration of a child-friendly picnic scene featuring a bat, a round balloon, a glass of juice, and a group of children engaging with these items.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/be155f94-9761-477b-8dc9-2b36f2dd1d8a",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What is the shape of a balloon?",
+        "correct_answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Triangle",
+            "C": "Round",
+            "D": "Flat"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "58490815-29fa-4858-915b-4989a9457b10",
+        "media": {
+            "style": "A vibrant illustration of an outdoor party scene with a large table set up, decorated with glasses, food, and happy people.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/58490815-29fa-4858-915b-4989a9457b10",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What is on the big table at the party outside?",
+        "correct_answer": "B",
+        "options": {
+            "A": "A chair",
+            "B": "A glass",
+            "C": "A tree",
+            "D": "A book"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "4feeceeb-ac34-43ea-a2f7-cc405430ab4b",
+        "media": {
+            "style": "A colorful illustration of a birthday party with a big present and a bat in the background, where children are celebrating with balloons and a festive atmosphere.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4feeceeb-ac34-43ea-a2f7-cc405430ab4b",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What did Zoe find inside the big present at her birthday party?",
+        "correct_answer": "C",
+        "options": {
+            "A": "A small dog",
+            "B": "A giant teddy bear",
+            "C": "A bat",
+            "D": "A toy car"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "58490815-29fa-4858-915b-4989a9457b10",
+        "media": {
+            "style": "A vibrant illustration of an outdoor party scene with a large table set up, decorated with glasses, food, and happy people.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/58490815-29fa-4858-915b-4989a9457b10",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What is on the big table at the party outside?",
+        "correct_answer": "B",
+        "options": {
+            "A": "A chair",
+            "B": "A glass",
+            "C": "A tree",
+            "D": "A book"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "fb270f52-43e3-43fd-8074-bf6c6e7c543a",
+        "media": {
+            "style": "A colorful illustration of a lively birthday party with a table full of presents, a bottle on the side, and balloons floating in the air.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/fb270f52-43e3-43fd-8074-bf6c6e7c543a",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What is placed in the center of the table at the party?",
+        "correct_answer": "A",
+        "options": {
+            "A": "A present",
+            "B": "A balloon",
+            "C": "A bottle",
+            "D": "A chair"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "fb270f52-43e3-43fd-8074-bf6c6e7c543a",
+        "media": {
+            "style": "A colorful illustration of a lively birthday party with a table full of presents, a bottle on the side, and balloons floating in the air.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/fb270f52-43e3-43fd-8074-bf6c6e7c543a",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What is placed in the center of the table at the party?",
+        "correct_answer": "A",
+        "options": {
+            "A": "A present",
+            "B": "A balloon",
+            "C": "A bottle",
+            "D": "A chair"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "662e17c3-51f7-4b89-b4ec-459608c26e06",
+        "media": {
+            "style": "A vibrant, colorful cartoon illustration of a cheerful child holding a baseball in one hand and a trophy cup in the other, standing next to a cupboard with open doors showing party decorations inside.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/662e17c3-51f7-4b89-b4ec-459608c26e06",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "At the party, Jake received a trophy cup for his brilliant performance in _____, and afterwards, he placed it proudly on the cupboard shelf.",
+        "correct_answer": "A",
+        "options": {
+            "A": "baseball",
+            "B": "tennis",
+            "C": "golf",
+            "D": "soccer"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "c18208f6-604b-4d1d-8dd4-c339651112ab",
+        "media": {
+            "style": "A cozy living room with a wooden shelf, a glass cupboard, a CD player placed on the shelf, and a round table in the center.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c18208f6-604b-4d1d-8dd4-c339651112ab",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What object is placed next to the CD player on the shelf?",
+        "correct_answer": "B",
+        "options": {
+            "A": "A round vase",
+            "B": "A glass of water",
+            "C": "A small statue",
+            "D": "A book"
+        },
+        "group_alias": "MVRCK",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "bottle",
+            "bowl",
+            "box",
+            "cup",
+            "glass",
+            "plate",
+            "balloon",
+            "birthday",
+            "party",
+            "present",
+            "CD player",
+            "cupboard",
+            "shelf",
+            "table",
+            "baseball",
+            "bat",
+            "add",
+            "big",
+            "round",
+            "square",
+            "inside",
+            "outside",
+            "Brilliant!",
+            "shape"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "c18208f6-604b-4d1d-8dd4-c339651112ab",
+        "media": {
+            "style": "A futuristic image of environmental catastrophes, waste disposal practices, and public health implications",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c18208f6-604b-4d1d-8dd4-c339651112ab",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which factor is crucial when considering the environmental impact of a business?",
+        "correct_answer": "C",
+        "options": {
+            "A": "Disposal of household waste",
+            "B": "Toxic waste management",
+            "C": "Weather patterns and flooding",
+            "D": "Public health and potential catastrophes"
+        },
+        "group_alias": "FIGHT",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "Disposal of household waste",
+            "Toxic waste management",
+            "Weather patterns and flooding",
+            "Public health and potential catastrophes"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 7 (14-20 October)",
+                    "book_title": "FUN for Movers UNIT 12",
+                    "title": "FUN for Movers UNIT 12",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-14",
+                "end_time": "2024-10-14 14:15:00",
+                "start_time": "2024-10-14 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "c18208f6-604b-4d1d-8dd4-c339651112ab",
+        "media": {
+            "style": "A futuristic image of environmental preservation, renewable energy, and sustainable practices",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c18208f6-604b-4d1d-8dd4-c339651112ab",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which practice is essential for promoting sustainable development?",
+        "correct_answer": "B",
+        "options": {
+            "A": "Increased use of single-use plastics",
+            "B": "Utilization of renewable energy sources",
+            "C": "Expansion of fossil fuel extraction",
+            "D": "Deforestation for agricultural land"
+        },
+        "group_alias": "FIGHT",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "Sustainable development",
+            "Renewable energy",
+            "Fossil fuel extraction",
+            "Deforestation"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "ENVIRONMENTAL SCIENCE UNIT 5",
+                    "title": "Sustainable Practices",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-21",
+                "end_time": "2024-10-21 14:15:00",
+                "start_time": "2024-10-21 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "c18208f6-604b-4d1d-8dd4-c339651112ab",
+        "media": {
+            "style": "A futuristic image of environmental preservation, renewable energy, and sustainable practices",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c18208f6-604b-4d1d-8dd4-c339651112ab",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which practice is essential for promoting sustainable development?",
+        "correct_answer": "B",
+        "options": {
+            "A": "Increased use of single-use plastics",
+            "B": "Utilization of renewable energy sources",
+            "C": "Expansion of fossil fuel extraction",
+            "D": "Deforestation for agricultural land"
+        },
+        "group_alias": "FIGHT",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "Sustainable development",
+            "Renewable energy",
+            "Fossil fuel extraction",
+            "Deforestation"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "ENVIRONMENTAL SCIENCE UNIT 5",
+                    "title": "Sustainable Practices",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-21",
+                "end_time": "2024-10-21 14:15:00",
+                "start_time": "2024-10-21 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "c18208f6-604b-4d1d-8dd4-c339651112ab",
+        "media": {
+            "style": "A futuristic image of environmental preservation, renewable energy, and sustainable practices",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c18208f6-604b-4d1d-8dd4-c339651112ab",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which practice is essential for promoting sustainable development?",
+        "correct_answer": "B",
+        "options": {
+            "A": "Increased use of single-use plastics",
+            "B": "Utilization of renewable energy sources",
+            "C": "Expansion of fossil fuel extraction",
+            "D": "Deforestation for agricultural land"
+        },
+        "group_alias": "FIGHT",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "Sustainable development",
+            "Renewable energy",
+            "Fossil fuel extraction",
+            "Deforestation"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "ENVIRONMENTAL SCIENCE UNIT 5",
+                    "title": "Sustainable Practices",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-21",
+                "end_time": "2024-10-21 14:15:00",
+                "start_time": "2024-10-21 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "c18208f6-604b-4d1d-8dd4-c339651112ab",
+        "media": {
+            "style": "A futuristic image of environmental preservation, renewable energy, and sustainable practices",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c18208f6-604b-4d1d-8dd4-c339651112ab",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which practice is essential for promoting sustainable development?",
+        "correct_answer": "B",
+        "options": {
+            "A": "Increased use of single-use plastics",
+            "B": "Utilization of renewable energy sources",
+            "C": "Expansion of fossil fuel extraction",
+            "D": "Deforestation for agricultural land"
+        },
+        "group_alias": "FIGHT",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "Sustainable development",
+            "Renewable energy",
+            "Fossil fuel extraction",
+            "Deforestation"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "ENVIRONMENTAL SCIENCE UNIT 5",
+                    "title": "Sustainable Practices",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-21",
+                "end_time": "2024-10-21 14:15:00",
+                "start_time": "2024-10-21 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "0f6f78df-d27b-4767-b97e-1d9e3c12517e",
+        "media": {
+            "style": "An illustration of a person standing at a crossroads, with signs pointing in different directions, symbolizing decision-making.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0f6f78df-d27b-4767-b97e-1d9e3c12517e",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "In general, it's important to make up your mind when faced with choices, or you might miss opportunities. On the whole, decisions need thoughtful consideration, but sooner or later, you have to choose a path.",
+        "questions": {
+            "1": {
+                "sentence": "What should you do when faced with choices?",
+                "answer": "Make up your mind."
+            },
+            "2": {
+                "sentence": "Why is it important not to delay decisions indefinitely?",
+                "answer": "Because sooner or later, you have to choose a path."
+            },
+            "3": {
+                "sentence": "What does 'on the whole' suggest in the text?",
+                "answer": "It suggests considering things in their entirety or generally."
+            }
+        },
+        "group_alias": "T_KIDS",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "out of the blue",
+            "ring a bell",
+            "make up your mind",
+            "get rid of",
+            "I'm just about to ...",
+            "burst into tears",
+            "apart from",
+            "except for",
+            "in four days' time",
+            "the week before last",
+            "so far",
+            "at once",
+            "right away",
+            "straight away",
+            "night after night",
+            "day after day",
+            "peace and quiet",
+            "or",
+            "and",
+            "now and two",
+            "now and again",
+            "now and then",
+            "up and down",
+            "once or twice",
+            "sooner or later",
+            "If I were you ...",
+            "In general...",
+            "on the whole",
+            "for instance",
+            "by the way",
+            "to be honest"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "M-Maker25",
+            "model_alias": "fm-gai-lottie-reading-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Intermediate Vocabulary in Use 75",
+                    "title": "Intermediate Vocabulary in Use 75",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1VKBY_319JgCkt4PoVPouKYj_cPe2p2BM/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "T_KIDS",
+                    "group_record": [
+                        23,
+                        "school1",
+                        "Tokyo Kids",
+                        "T_KIDS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher1",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-21",
+                "end_time": "2024-10-21 15:55:00",
+                "start_time": "2024-10-21 15:10:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "126adamzembery",
+                        "first_name": "Adam",
+                        "last_name": "\u017dembery",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "132ninaholeckova",
+                        "first_name": "Nina",
+                        "last_name": "Hole\u010dkov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "167michalbabocky",
+                        "first_name": "Michal",
+                        "last_name": "Babock\u00fd",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "261viktoriakocianova",
+                        "first_name": "Viktoria",
+                        "last_name": "Kocianova",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "245adelasalini",
+                        "first_name": "Adela",
+                        "last_name": "Salini",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "258davidgodal",
+                        "first_name": "David",
+                        "last_name": "Godal",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "331adelasalingova",
+                        "first_name": "Adela",
+                        "last_name": "Salingova",
+                        "date_of_birth": "2011-11-16"
+                    },
+                    {
+                        "alias": "332katarinacervenova",
+                        "first_name": "Katarina",
+                        "last_name": "Cervenova",
+                        "date_of_birth": "2011-09-27"
+                    },
+                    {
+                        "alias": "333tomasszabo",
+                        "first_name": "Tomas",
+                        "last_name": "Szabo",
+                        "date_of_birth": "2008-11-15"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "92899bf2-1658-413b-b549-3919daf16356",
+        "media": {
+            "style": "A cozy living room with a comfortable chair, a coffee table with a book and a cup of tea, capturing a peaceful and introspective atmosphere.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/92899bf2-1658-413b-b549-3919daf16356",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "In general, I enjoy spending quiet evenings at home. I'm just about to start a new book that I've been eager to read. To be honest, now and again, I prefer staying in rather than going out with friends. By the way, have you heard about the new caf\u00e9 that opened nearby?",
+        "questions": {
+            "1": {
+                "sentence": "What is the speaker about to do?",
+                "answer": "The speaker is about to start a new book."
+            },
+            "2": {
+                "sentence": "How does the speaker feel about staying in sometimes?",
+                "answer": "The speaker prefers staying in rather than going out with friends."
+            },
+            "3": {
+                "sentence": "What does the speaker suggest at the end of the paragraph?",
+                "answer": "The speaker mentions a new caf\u00e9 that opened nearby."
+            }
+        },
+        "group_alias": "T_KIDS",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "out of the blue",
+            "ring a bell",
+            "make up your mind",
+            "get rid of",
+            "I'm just about to ...",
+            "burst into tears",
+            "apart from",
+            "except for",
+            "in four days' time",
+            "the week before last",
+            "so far",
+            "at once",
+            "right away",
+            "straight away",
+            "night after night",
+            "day after day",
+            "peace and quiet",
+            "or",
+            "and",
+            "now and two",
+            "now and again",
+            "now and then",
+            "up and down",
+            "once or twice",
+            "sooner or later",
+            "If I were you ...",
+            "In general...",
+            "on the whole",
+            "for instance",
+            "by the way",
+            "to be honest"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "M-Maker25",
+            "model_alias": "fm-gai-lottie-reading-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Intermediate Vocabulary in Use 75",
+                    "title": "Intermediate Vocabulary in Use 75",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1VKBY_319JgCkt4PoVPouKYj_cPe2p2BM/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "T_KIDS",
+                    "group_record": [
+                        23,
+                        "school1",
+                        "Tokyo Kids",
+                        "T_KIDS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher1",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-21",
+                "end_time": "2024-10-21 15:55:00",
+                "start_time": "2024-10-21 15:10:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "126adamzembery",
+                        "first_name": "Adam",
+                        "last_name": "\u017dembery",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "132ninaholeckova",
+                        "first_name": "Nina",
+                        "last_name": "Hole\u010dkov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "167michalbabocky",
+                        "first_name": "Michal",
+                        "last_name": "Babock\u00fd",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "261viktoriakocianova",
+                        "first_name": "Viktoria",
+                        "last_name": "Kocianova",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "245adelasalini",
+                        "first_name": "Adela",
+                        "last_name": "Salini",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "258davidgodal",
+                        "first_name": "David",
+                        "last_name": "Godal",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "331adelasalingova",
+                        "first_name": "Adela",
+                        "last_name": "Salingova",
+                        "date_of_birth": "2011-11-16"
+                    },
+                    {
+                        "alias": "332katarinacervenova",
+                        "first_name": "Katarina",
+                        "last_name": "Cervenova",
+                        "date_of_birth": "2011-09-27"
+                    },
+                    {
+                        "alias": "333tomasszabo",
+                        "first_name": "Tomas",
+                        "last_name": "Szabo",
+                        "date_of_birth": "2008-11-15"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "d4b60cd0-3440-445c-b9d8-787eec59b5e9",
+        "media": {
+            "style": "An illustration of a group of excited students exploring the ancient temples of Bagan in Myanmar, with one student pointing at a map and others taking photos of the sunset over the Irrawaddy River.",
+            "image_src": null,
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "When we grow up, many of us dream of going on an adventurous journey to distant lands. For instance, Myanmar often rings a bell as a fascinating place to visit. By the way, have you ever thought of walking through the majestic temples of Bagan? So far, very few students from our school have had the chance to explore such a rich cultural heritage. During our trip, we plan to get rid of the typical tourist path and discover the hidden gems lying in the countryside. It's surely going to be a memorable adventure that we will cherish forever.",
+        "questions": {
+            "1": {
+                "sentence": "What destination is mentioned as fascinating for the students to visit?",
+                "answer": "Myanmar."
+            },
+            "2": {
+                "sentence": "What do students want to do during their trip to make it memorable?",
+                "answer": "They plan to get rid of the typical tourist path and discover hidden gems."
+            },
+            "3": {
+                "sentence": "What famous landmark in Myanmar do the students want to explore?",
+                "answer": "The majestic temples of Bagan."
+            }
+        },
+        "group_alias": "T_KIDS",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "out of the blue",
+            "ring a bell",
+            "make up your mind",
+            "get rid of",
+            "I'm just about to ...",
+            "burst into tears",
+            "apart from",
+            "except for",
+            "in four days' time",
+            "the week before last",
+            "so far",
+            "at once",
+            "right away",
+            "straight away",
+            "night after night",
+            "day after day",
+            "peace and quiet",
+            "or",
+            "and",
+            "now and two",
+            "now and again",
+            "now and then",
+            "up and down",
+            "once or twice",
+            "sooner or later",
+            "If I were you ...",
+            "In general...",
+            "on the whole",
+            "for instance",
+            "by the way",
+            "to be honest"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "M-Maker25",
+            "model_alias": "fm-gai-lottie-reading-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Intermediate Vocabulary in Use 75",
+                    "title": "Intermediate Vocabulary in Use 75",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1VKBY_319JgCkt4PoVPouKYj_cPe2p2BM/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "T_KIDS",
+                    "group_record": [
+                        23,
+                        "school1",
+                        "Tokyo Kids",
+                        "T_KIDS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher1",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-21",
+                "end_time": "2024-10-21 15:55:00",
+                "start_time": "2024-10-21 15:10:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "126adamzembery",
+                        "first_name": "Adam",
+                        "last_name": "\u017dembery",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "132ninaholeckova",
+                        "first_name": "Nina",
+                        "last_name": "Hole\u010dkov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "167michalbabocky",
+                        "first_name": "Michal",
+                        "last_name": "Babock\u00fd",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "261viktoriakocianova",
+                        "first_name": "Viktoria",
+                        "last_name": "Kocianova",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "245adelasalini",
+                        "first_name": "Adela",
+                        "last_name": "Salini",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "258davidgodal",
+                        "first_name": "David",
+                        "last_name": "Godal",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "331adelasalingova",
+                        "first_name": "Adela",
+                        "last_name": "Salingova",
+                        "date_of_birth": "2011-11-16"
+                    },
+                    {
+                        "alias": "332katarinacervenova",
+                        "first_name": "Katarina",
+                        "last_name": "Cervenova",
+                        "date_of_birth": "2011-09-27"
+                    },
+                    {
+                        "alias": "333tomasszabo",
+                        "first_name": "Tomas",
+                        "last_name": "Szabo",
+                        "date_of_birth": "2008-11-15"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "309827be-8873-4044-aae9-e7f4dd99f822",
+        "media": {
+            "style": "A group of excited students with backpacks exploring the lush, vibrant landscapes of Myanmar, including colorful pagodas, and traditional markets, under a bright blue sky.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/309827be-8873-4044-aae9-e7f4dd99f822",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "In four days' time, a group of students will start their adventurous journey to Myanmar. So far, they have planned to explore the beautiful pagodas and wander through the bustling markets. Night after night, they imagine the incredible sights they will see and the new experiences they will have together. Now and two years from now, they hope this trip will become a cherished memory, as they walk up and down the scenic trails and connect with the local culture.",
+        "questions": {
+            "1": {
+                "sentence": "How many days until the students start their journey?",
+                "answer": "Four days"
+            },
+            "2": {
+                "sentence": "What do the students plan to explore in Myanmar?",
+                "answer": "The beautiful pagodas and bustling markets"
+            },
+            "3": {
+                "sentence": "What do the students do night after night before their trip?",
+                "answer": "They imagine the incredible sights they will see."
+            }
+        },
+        "group_alias": "T_KIDS",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "out of the blue",
+            "ring a bell",
+            "make up your mind",
+            "get rid of",
+            "I'm just about to ...",
+            "burst into tears",
+            "apart from",
+            "except for",
+            "in four days' time",
+            "the week before last",
+            "so far",
+            "at once",
+            "right away",
+            "straight away",
+            "night after night",
+            "day after day",
+            "peace and quiet",
+            "or",
+            "and",
+            "now and two",
+            "now and again",
+            "now and then",
+            "up and down",
+            "once or twice",
+            "sooner or later",
+            "If I were you ...",
+            "In general...",
+            "on the whole",
+            "for instance",
+            "by the way",
+            "to be honest"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "M-Maker25",
+            "model_alias": "fm-gai-lottie-reading-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Intermediate Vocabulary in Use 75",
+                    "title": "Intermediate Vocabulary in Use 75",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1VKBY_319JgCkt4PoVPouKYj_cPe2p2BM/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "T_KIDS",
+                    "group_record": [
+                        23,
+                        "school1",
+                        "Tokyo Kids",
+                        "T_KIDS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher1",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-21",
+                "end_time": "2024-10-21 15:55:00",
+                "start_time": "2024-10-21 15:10:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "126adamzembery",
+                        "first_name": "Adam",
+                        "last_name": "\u017dembery",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "132ninaholeckova",
+                        "first_name": "Nina",
+                        "last_name": "Hole\u010dkov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "167michalbabocky",
+                        "first_name": "Michal",
+                        "last_name": "Babock\u00fd",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "261viktoriakocianova",
+                        "first_name": "Viktoria",
+                        "last_name": "Kocianova",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "245adelasalini",
+                        "first_name": "Adela",
+                        "last_name": "Salini",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "258davidgodal",
+                        "first_name": "David",
+                        "last_name": "Godal",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "331adelasalingova",
+                        "first_name": "Adela",
+                        "last_name": "Salingova",
+                        "date_of_birth": "2011-11-16"
+                    },
+                    {
+                        "alias": "332katarinacervenova",
+                        "first_name": "Katarina",
+                        "last_name": "Cervenova",
+                        "date_of_birth": "2011-09-27"
+                    },
+                    {
+                        "alias": "333tomasszabo",
+                        "first_name": "Tomas",
+                        "last_name": "Szabo",
+                        "date_of_birth": "2008-11-15"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "309827be-8873-4044-aae9-e7f4dd99f822",
+        "media": {
+            "style": "A group of excited students with backpacks exploring the lush, vibrant landscapes of Myanmar, including colorful pagodas, and traditional markets, under a bright blue sky.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/309827be-8873-4044-aae9-e7f4dd99f822",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "In four days' time, a group of students will start their adventurous journey to Myanmar. So far, they have planned to explore the beautiful pagodas and wander through the bustling markets. Night after night, they imagine the incredible sights they will see and the new experiences they will have together. Now and two years from now, they hope this trip will become a cherished memory, as they walk up and down the scenic trails and connect with the local culture.",
+        "questions": {
+            "1": {
+                "sentence": "How many days until the students start their journey?",
+                "answer": "Four days"
+            },
+            "2": {
+                "sentence": "What do the students plan to explore in Myanmar?",
+                "answer": "The beautiful pagodas and bustling markets"
+            },
+            "3": {
+                "sentence": "What do the students do night after night before their trip?",
+                "answer": "They imagine the incredible sights they will see."
+            }
+        },
+        "group_alias": "T_KIDS",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "out of the blue",
+            "ring a bell",
+            "make up your mind",
+            "get rid of",
+            "I'm just about to ...",
+            "burst into tears",
+            "apart from",
+            "except for",
+            "in four days' time",
+            "the week before last",
+            "so far",
+            "at once",
+            "right away",
+            "straight away",
+            "night after night",
+            "day after day",
+            "peace and quiet",
+            "or",
+            "and",
+            "now and two",
+            "now and again",
+            "now and then",
+            "up and down",
+            "once or twice",
+            "sooner or later",
+            "If I were you ...",
+            "In general...",
+            "on the whole",
+            "for instance",
+            "by the way",
+            "to be honest"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "M-Maker25",
+            "model_alias": "fm-gai-lottie-reading-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Intermediate Vocabulary in Use 75",
+                    "title": "Intermediate Vocabulary in Use 75",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1VKBY_319JgCkt4PoVPouKYj_cPe2p2BM/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "T_KIDS",
+                    "group_record": [
+                        23,
+                        "school1",
+                        "Tokyo Kids",
+                        "T_KIDS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher1",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-21",
+                "end_time": "2024-10-21 15:55:00",
+                "start_time": "2024-10-21 15:10:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "126adamzembery",
+                        "first_name": "Adam",
+                        "last_name": "\u017dembery",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "132ninaholeckova",
+                        "first_name": "Nina",
+                        "last_name": "Hole\u010dkov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "167michalbabocky",
+                        "first_name": "Michal",
+                        "last_name": "Babock\u00fd",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "261viktoriakocianova",
+                        "first_name": "Viktoria",
+                        "last_name": "Kocianova",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "245adelasalini",
+                        "first_name": "Adela",
+                        "last_name": "Salini",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "258davidgodal",
+                        "first_name": "David",
+                        "last_name": "Godal",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "331adelasalingova",
+                        "first_name": "Adela",
+                        "last_name": "Salingova",
+                        "date_of_birth": "2011-11-16"
+                    },
+                    {
+                        "alias": "332katarinacervenova",
+                        "first_name": "Katarina",
+                        "last_name": "Cervenova",
+                        "date_of_birth": "2011-09-27"
+                    },
+                    {
+                        "alias": "333tomasszabo",
+                        "first_name": "Tomas",
+                        "last_name": "Szabo",
+                        "date_of_birth": "2008-11-15"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    }
+]

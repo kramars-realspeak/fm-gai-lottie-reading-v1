@@ -1,0 +1,57 @@
+{ "words" :
+
+    {
+        "I've no idea." : {"definition" : " " },
+
+        "That depends." : {"definition" : " " },
+
+        "why not?" : {"definition" : " " },
+
+        "not really" : {"definition" : " " },
+
+        "what for?" : {"definition" : " " },
+
+        "no way" : {"definition" : " " },
+
+        "no chance" : {"definition" : " " },
+
+        "I suppose so." : {"definition" : " " },
+
+        "I couldn't believe my eyes!" : {"definition" : " " },
+
+        "You must be joking." : {"definition" : " " },
+
+        "I don't believe it!" : {"definition" : " " },
+
+        "You're kidding." : {"definition" : " " },
+
+        "have a word with" : {"definition" : " " },
+
+        "you know" : {"definition" : " " },
+
+        "pay attention" : {"definition" : " " },
+
+        "that sort of thing" : {"definition" : " " },
+
+        "in that case" : {"definition" : " " },
+
+        "feel bad about" : {"definition" : " " },
+
+        "can't help it" : {"definition" : " " },
+
+        "that kind of thing" : {"definition" : " " },
+
+        "wait and see" : {"definition" : " " },
+
+        "what if" : {"definition" : " " },
+
+        "change your mind" : {"definition" : " " },
+
+        "that sort" : {"definition" : " " },
+
+        "kind of thing" : {"definition" : " " },
+
+        "sort of" : {"definition" : " " }
+
+    }
+}

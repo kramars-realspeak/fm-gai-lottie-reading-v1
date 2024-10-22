@@ -1,0 +1,47 @@
+{ "words" :
+
+    {
+        "camera" : {"definition" : " " },
+
+        "screen" : {"definition" : " " },
+
+        "apps" : {"definition" : " " },
+
+        "power button" : {"definition" : " " },
+
+        "charger" : {"definition" : " " },
+
+        "phone case" : {"definition" : " " },
+
+        "SIM card" : {"definition" : " " },
+
+        "battery" : {"definition" : " " },
+
+        "selfie" : {"definition" : " " },
+
+        "PIN" : {"definition" : " " },
+
+        "delete" : {"definition" : " " },
+
+        "save" : {"definition" : " " },
+
+        "swipe" : {"definition" : " " },
+
+        "take selfies" : {"definition" : " " },
+
+        "left a voicemail" : {"definition" : " " },
+
+        "message" : {"definition" : " " },
+
+        "download an app" : {"definition" : " " },
+
+        "called" : {"definition" : " " },
+
+        "locked PIN" : {"definition" : " " },
+
+        "unlock" : {"definition" : " " },
+
+        "memory" : {"definition" : " " }
+
+    }
+}

@@ -1,0 +1,79 @@
+{ "words" :
+
+    {
+        "cloud" : {"definition" : " " },
+
+        "fog" : {"definition" : " " },
+
+        "ice" : {"definition" : " " },
+
+        "rain" : {"definition" : " " },
+
+        "rainbow" : {"definition" : " " },
+
+        "snow" : {"definition" : " " },
+
+        "storm" : {"definition" : " " },
+
+        "temperature" : {"definition" : " " },
+
+        "wind" : {"definition" : " " },
+
+        "kite" : {"definition" : " " },
+
+        "playground" : {"definition" : " " },
+
+        "slide" : {"definition" : " " },
+
+        "swing" : {"definition" : " " },
+
+        "zero" : {"definition" : " " },
+
+        "kid" : {"definition" : " " },
+
+        "enjoy" : {"definition" : " " },
+
+        "go out" : {"definition" : " " },
+
+        "snow" : {"definition" : " " },
+
+        "bad" : {"definition" : " " },
+
+        "cloudy" : {"definition" : " " },
+
+        "cold" : {"definition" : " " },
+
+        "dry" : {"definition" : " " },
+
+        "fine" : {"definition" : " " },
+
+        "foggy" : {"definition" : " " },
+
+        "horrible" : {"definition" : " " },
+
+        "hot" : {"definition" : " " },
+
+        "noisy" : {"definition" : " " },
+
+        "sunny" : {"definition" : " " },
+
+        "terrible" : {"definition" : " " },
+
+        "warm" : {"definition" : " " },
+
+        "wet" : {"definition" : " " },
+
+        "windy" : {"definition" : " " },
+
+        "worse" : {"definition" : " " },
+
+        "Come on!" : {"definition" : " " },
+
+        "How about...?" : {"definition" : " " },
+
+        "Let's" : {"definition" : " " },
+
+        "Shall we...?" : {"definition" : " " }
+
+    }
+}

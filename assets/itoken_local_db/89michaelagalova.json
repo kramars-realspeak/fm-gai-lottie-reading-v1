@@ -1,0 +1,29 @@
+[
+    {
+    "food": {
+        "pizza": [ "cheese", "ham", "corn", "family time in Topolcianky and it is special" ],
+        "favourite food": [ "bocikova pasteka" ],
+        "McDonald's" : [ "It's family time when we go to NR on a trip" ]
+    },
+    "sport": {
+        "athletics": [ "running", "jumping", "throwing" ],
+        "cricket": [ "the most passionate activity" ], 
+        "running": [ "sprints", "60 meters" ],
+        "swimming" : [],
+        "bike": [],
+        "skiing": [],
+        "hiking": [ "going with family on hiking trips", "Brezno", "Tatras" ]
+    },
+    "play" : {
+        "siblings" : ["playing with siblings", "playing with her brother", "playing outside in the family garden"],
+        "teacher": ["playing that she is a teacher", "playing with her dolls", "playing with her toys"]
+    },
+    "games" : {
+        "pharo" : [],
+        "sedma" : [ "Czech 4-card trick-and-draw game called Sedma" ]
+    }, 
+    "school": {
+        "favourite subject" : ["slovak", "physical education", "dodgeball"]
+    }
+}
+]

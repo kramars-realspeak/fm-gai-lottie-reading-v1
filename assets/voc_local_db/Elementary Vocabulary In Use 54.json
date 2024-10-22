@@ -1,0 +1,41 @@
+{ "words" :
+
+    {
+        "manner" : {"definition" : " " },
+
+        "fast" : {"definition" : " " },
+
+        "slow" : {"definition" : " " },
+
+        "slowly" : {"definition" : " " },
+
+        "loud" : {"definition" : " " },
+
+        "loudy" : {"definition" : " " },
+
+        "quiet" : {"definition" : " " },
+
+        "quietly" : {"definition" : " " },
+
+        "good" : {"definition" : " " },
+
+        "well" : {"definition" : " " },
+
+        "bad" : {"definition" : " " },
+
+        "badly" : {"definition" : " " },
+
+        "right" : {"definition" : " " },
+
+        "wrong" : {"definition" : " " },
+
+        "in a friendly way" : {"definition" : " " },
+
+        "in an unfriendly way" : {"definition" : " " },
+
+        "the wrong way" : {"definition" : " " },
+
+        "the right way" : {"definition" : " " }
+
+    }
+}

@@ -1,0 +1,44 @@
+{ "words" :
+
+    {
+        "colours" : {"definition" : " " },
+        
+        "black" : {"definition" : " " },
+
+        "blue" : {"definition" : " " },
+
+        "brown" : {"definition" : " " },
+
+        "green"  : {"definition" : " " },
+
+        "gray" : {"definition" : " " },
+
+        "orange"  : {"definition" : " " },
+
+        "pink" : {"definition" : " " },
+
+        "purple" : {"definition" : " " },
+
+        "red" : {"definition" : " " },
+
+        "white" : {"definition" : " " },
+
+        "yellow" : {"definition" : " " },
+
+        "bird" : {"definition" : " " },
+
+        "tree" : {"definition" : " " },
+
+        "bike" : {"definition" : " " },
+
+        "boat" : {"definition" : " " },
+
+        "kite" : {"definition" : " " },
+
+        "paint" : {"definition" : " " },
+
+        "What colour is your hair?" : {"definition" : " " }
+        
+
+    }
+}

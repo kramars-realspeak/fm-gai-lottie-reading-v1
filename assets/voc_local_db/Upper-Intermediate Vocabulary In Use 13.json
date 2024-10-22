@@ -1,0 +1,79 @@
+{ "words" :
+
+    {
+        "earthquake" : {"definition" : " " },
+
+        "flood" : {"definition" : " " },
+
+        "drought" : {"definition" : " " },
+
+        "volcano" : {"definition" : " " },
+
+        "famine" : {"definition" : " " },
+
+        "landslide" : {"definition" : " " },
+
+        "explosion" : {"definition" : " " },
+
+        "epidemic" : {"definition" : " " },
+
+        "major accident" : {"definition" : " " },
+
+        "incident" : {"definition" : " " },
+
+        "hurricane" : {"definition" : " " },
+
+        "tornado" : {"definition" : " " },
+
+        "typhoon" : {"definition" : " " },
+
+        "tropical storm" : {"definition" : " " },
+
+        "war" : {"definition" : " " },
+
+        "civil war" : {"definition" : " " },
+
+        "natural disasters" : {"definition" : " " },
+
+        "erupted" : {"definition" : " " },
+
+        "feared dead" : {"definition" : " " },
+
+        "spread" : {"definition" : " " },
+
+        "shook" : {"definition" : " " },
+
+        "swept" : {"definition" : " " },
+
+        "suffering" : {"definition" : " " },
+
+        "starving" : {"definition" : " " },
+
+        "broken out" : {"definition" : " " },
+
+        "casualties" : {"definition" : " " },
+
+        "victims" : {"definition" : " " },
+
+        "survivors" : {"definition" : " " },
+
+        "refugees" : {"definition" : " " },
+
+        "migrants" : {"definition" : " " },
+
+        "dead" : {"definition" : " " },
+
+        "wounded" : {"definition" : " " },
+
+        "AIDS" : {"definition" : " " },
+
+        "cholera" : {"definition" : " " },
+
+        "typhoid" : {"definition" : " " },
+
+        "malaria" : {"definition" : " " },
+
+        "rabies" : {"definition" : " " }
+
+    }
+}

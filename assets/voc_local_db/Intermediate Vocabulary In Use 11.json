@@ -1,0 +1,77 @@
+{ "words" :
+
+    {
+        "character" : {"definition" : " " },
+
+        "positive" : {"definition" : " " },
+
+        "negative" : {"definition" : " " },
+
+        "reliable" : {"definition" : " " },
+
+        "unreliable" : {"definition" : " " },
+
+        "confident" : {"definition" : " " },
+
+        "shy" : {"definition" : " " },
+
+        "hard-working" : {"definition" : " " },
+
+        "lazy" : {"definition" : " " },
+
+        "sense of humour" : {"definition" : " " },
+
+        "serious" : {"definition" : " " },
+
+        "patient" : {"definition" : " " },
+
+        "impatient" : {"definition" : " " },
+
+        "nice" : {"definition" : " " },
+
+        "generous" : {"definition" : " " },
+
+        "honest" : {"definition" : " " },
+
+        "clever" : {"definition" : " " },
+
+        "intelligent" : {"definition" : " " },
+
+        "calm" : {"definition" : " " },
+
+        "mean" : {"definition" : " " },
+
+        "dishonest" : {"definition" : " " },
+
+        "stupid" : {"definition" : " " },
+
+        "nervous" : {"definition" : " " },
+
+        "anxious" : {"definition" : " " },
+
+        "kind" : {"definition" : " " },
+
+        "friendly" : {"definition" : " " },
+
+        "pleasant" : {"definition" : " " },
+
+        "unkind" : {"definition" : " " },
+
+        "unfriendly" : {"definition" : " " },
+
+        "unpleasant" : {"definition" : " " },
+
+        "silly" : {"definition" : " " },
+
+        "creative" : {"definition" : " " },
+
+        "talented" : {"definition" : " " },
+
+        "wish" : {"definition" : " " },
+
+        "sensible" : {"definition" : " " },
+        
+        "trust" : {"definition" : " " }
+
+    }
+}

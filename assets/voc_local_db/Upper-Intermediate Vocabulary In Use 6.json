@@ -1,0 +1,65 @@
+{ "words" :
+
+    {
+        "daytime" : {"definition" : " " },
+
+        "late" : {"definition" : " " },
+
+        "misty" : {"definition" : " " },
+
+        "damp" : {"definition" : " " },
+
+        "frost" : {"definition" : " " },
+
+        "severe" : {"definition" : " " },
+
+        "expect" : {"definition" : " " },
+
+        "freeze" : {"definition" : " " },
+
+        "thaw" : {"definition" : " " },
+
+        "melts" : {"definition" : " " },
+
+        "tropical" : {"definition" : " " },
+
+        "stifling" : {"definition" : " " },
+
+        "muggy" : {"definition" : " " },
+
+        "humid" : {"definition" : " " },
+
+        "boiling" : {"definition" : " " },
+
+        "heatwaves" : {"definition" : " " },
+
+        "shower" : {"definition" : " " },
+
+        "heavy rain" : {"definition" : " " },
+
+        "pour down" : {"definition" : " " },
+
+        "downpour" : {"definition" : " " },
+
+        "torrential rain" : {"definition" : " " },
+
+        "flood" : {"definition" : " " },
+
+        "overcast" : {"definition" : " " },
+
+        "drought" : {"definition" : " " },
+
+        "gentle breeze" : {"definition" : " " },
+
+        "strong" : {"definition" : " " },
+
+        "high wind" : {"definition" : " " },
+
+        "gale" : {"definition" : " " },
+
+        "hurricane" : {"definition" : " " },
+
+        "bad weather" : {"definition" : " " }
+
+    }
+}

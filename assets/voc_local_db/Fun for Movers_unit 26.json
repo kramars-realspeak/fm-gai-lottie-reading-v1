@@ -1,0 +1,47 @@
+{ "words" :
+
+    {
+        "CD" : {"definition" : " " },
+
+        "lamp" : {"definition" : " " },
+
+        "spider" : {"definition" : " " },
+
+        "skateboarding" : {"definition" : " " },
+
+        "come home" : {"definition" : " " },
+
+        "drive to work" : {"definition" : " " },
+
+        "move into a flat" : {"definition" : " " },
+
+        "water" : {"definition" : " " },
+
+        "after" : {"definition" : " " },
+
+        "before" : {"definition" : " " },
+
+        "between" : {"definition" : " " },
+
+        "from" : {"definition" : " " },
+
+        "opposite" : {"definition" : " " },
+
+        "out of" : {"definition" : " " },
+
+        "round" : {"definition" : " " },
+
+        "at home" : {"definition" : " " },
+
+        "at the back of" : {"definition" : " " },
+
+        "at the bottom of": {"definition" : " " },
+
+        "at the end" : {"definition" : " " },
+
+        "at the top of" : {"definition" : " " },
+
+        "on top of" : {"definition" : " " }
+
+    }
+}

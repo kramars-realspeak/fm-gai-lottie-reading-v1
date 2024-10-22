@@ -1,0 +1,79 @@
+{ "words" :
+
+    {
+        "train" : {"definition" : " " },
+
+        "bus" : {"definition" : " " },
+
+        "bicycle" : {"definition" : " " },
+
+        "bike" : {"definition" : " " },
+
+        "car" : {"definition" : " " },
+
+        "plane" : {"definition" : " " },
+
+        "motorcycle" : {"definition" : " " },
+
+        "underground" : {"definition" : " " },
+
+        "boat" : {"definition" : " " },
+
+        "ship" : {"definition" : " " },
+
+        "helicopter" : {"definition" : " " },
+
+        "taxi" : {"definition" : " " },
+
+        "map" : {"definition" : " " },
+
+        "timetable" : {"definition" : " " },
+
+        "customs" : {"definition" : " " },
+
+        "luggage" : {"definition" : " " },
+
+        "passport" : {"definition" : " " },
+
+        "single" : {"definition" : " " },
+
+        "return" : {"definition" : " " },
+
+        "book a seat in advance" : {"definition" : " " },
+
+        "reserve" : {"definition" : " " },
+
+        "arriving at" : {"definition" : " " },
+
+        "departs from" : {"definition" : " " },
+
+        "leaves" : {"definition" : " " },
+
+        "restaurant car" : {"definition" : " " },
+
+        "change trains" : {"definition" : " " },
+
+        "direct" : {"definition" : " " },
+
+        "check in" : {"definition" : " " },
+
+        "take off" : {"definition" : " " },
+
+        "check in online" : {"definition" : " " },
+
+        "boarding card" : {"definition" : " " },
+
+        "flight attendant" : {"definition" : " " },
+
+        "lands" : {"definition" : " " },
+
+        "go through customs" : {"definition" : " " },
+
+        "hired a car" : {"definition" : " " },
+
+        "fill up with petrol" : {"definition" : " " },
+
+        "give a lift" : {"definition" : " " }
+
+    }
+}

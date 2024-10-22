@@ -1,0 +1,49 @@
+{ "words" :
+
+    {
+        "obituaries" : {"definition" : " " },
+
+        "editorial" : {"definition" : " " },
+
+        "leader" : {"definition" : " " },
+
+        "cover" : {"definition" : " " },
+
+        "classified ads" : {"definition" : " " },
+
+        "claasifieds" : {"definition" : " " },
+
+        "supplements" : {"definition" : " " },
+
+        "feature" : {"definition" : " " },
+
+        "agony columns" : {"definition" : " " },
+
+        "circulation" : {"definition" : " " },
+
+        "agony aunt" : {"definition" : " " },
+
+        "coverage" : {"definition" : " " },
+
+        "journal" : {"definition" : " " },
+
+        "newsletter" : {"definition" : " " },
+
+        "pamphlet" : {"definition" : " " },
+
+        "press release" : {"definition" : " " },
+
+        "leaflet" : {"definition" : " " },
+
+        "brochure" : {"definition" : " " },
+
+        "prospectus" : {"definition" : " " },
+
+        "flyer" : {"definition" : " " },
+
+        "booklet" : {"definition" : " " },
+
+        "manual" : {"definition" : " " }
+
+    }
+}

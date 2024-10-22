@@ -1,0 +1,53 @@
+{ "words" :
+
+    {
+        "health" : {"definition" : " " },
+
+        "doctor" : {"definition" : " " },
+
+        "hospital" : {"definition" : " " },
+
+        "nurse" : {"definition" : " " },
+
+        "temperature" : {"definition" : " " },
+
+        "building" : {"definition" : " " },
+
+        "seat" : {"definition" : " " },
+
+        "dentist" : {"definition" : " " },
+
+        "driver" : {"definition" : " " },
+
+        "have a temperature" : {"definition" : " " },
+
+        "practise" : {"definition" : " " },
+
+        "take your temperature" : {"definition" : " " },
+
+        "asleep" : {"definition" : " " },
+
+        "bad" : {"definition" : " " },
+
+        "careful" : {"definition" : " " },
+
+        "hungry" : {"definition" : " " },
+        
+        "ill" : {"definition" : " " },
+
+        "sick" : {"definition" : " " },
+
+        "terrible" : {"definition" : " " },
+
+        "tired" : {"definition" : " " },
+
+        "well" : {"definition" : " " },
+
+        "where" : {"definition" : " " },
+
+        "who" : {"definition" : " " },
+
+        "that" : {"definition" : " " }
+
+    }
+}

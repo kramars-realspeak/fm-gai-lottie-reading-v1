@@ -1,0 +1,77 @@
+{ "words" :
+
+    {
+        "baby" : {"definition" : " " },
+
+        "bat" : {"definition" : " " },
+
+        "bear" : {"definition" : " " },
+
+        "bee" : {"definition" : " " },
+
+        "bird" : {"definition" : " " },
+
+        "cage" : {"definition" : " " },
+
+        "cat" : {"definition" : " " },
+
+        "cow" : {"definition" : " " },
+
+        "crocodile" : {"definition" : " " },
+
+        "dog" : {"definition" : " " },
+
+        "dolphin" : {"definition" : " " },
+
+        "donkey" : {"definition" : " " },
+
+        "fish" : {"definition" : " " },
+
+        "fly" : {"definition" : " " },
+
+        "goat" : {"definition" : " " },
+
+        "frog" : {"definition" : " " },
+
+        "jellyfish" : {"definition" : " " },
+
+        "kangaroo" : {"definition" : " " },
+
+        "lion" : {"definition" : " " },
+
+        "lizard" : {"definition" : " " },
+
+        "monkey" : {"definition" : " " },
+
+        "mouse" : {"definition" : " " },
+
+        "mice" : {"definition" : " " },
+
+        "panda" : {"definition" : " " },
+
+        "parrot" : {"definition" : " " },
+
+        "penguin" : {"definition" : " " },
+
+        "polar bear" : {"definition" : " " },
+
+        "rabbit" : {"definition" : " " },
+
+        "shark" : {"definition" : " " },
+
+        "snail" : {"definition" : " " },
+
+        "tail" : {"definition" : " " },
+
+        "whale" : {"definition" : " " },
+
+        "zebra" : {"definition" : " " },
+
+        "zoo" : {"definition" : " " },
+
+        "sound like" : {"definition" : " " },
+
+        "about" : {"definition" : " " }
+        
+    }
+}

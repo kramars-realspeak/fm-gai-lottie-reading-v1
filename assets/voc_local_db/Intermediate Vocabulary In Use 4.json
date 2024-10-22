@@ -1,0 +1,57 @@
+{ "words" :
+
+    {
+        "pronoun" : {"definition" : " " },
+
+        "prepositions" : {"definition" : " " },
+
+        "nouns" : {"definition" : " " },
+
+        "verbs" : {"definition" : " " },
+
+        "adjectives" : {"definition" : " " },
+
+        "adverb" : {"definition" : " " },
+
+        "definite article" : {"definition" : " " },
+
+        "indefinite article" : {"definition" : " " },
+
+        "conjunction" : {"definition" : " " },
+
+        "link word" : {"definition" : " " },
+
+        "countable" : {"definition" : " " },
+
+        "uncountable" : {"definition" : " " },
+
+        "regular" : {"definition" : " " },
+
+        "irregular" : {"definition" : " " },
+
+        "phrasal verbs" : {"definition" : " " },
+
+        "phrases" : {"definition" : " " },
+
+        "prefix" : {"definition" : " " },
+
+        "suffix" : {"definition" : " " },
+
+        "phonemic symbols" : {"definition" : " " },
+
+        "syllabes" : {"definition" : " " },
+
+        "stress" : {"definition" : " " },
+
+        "capital letter" : {"definition" : " " },
+
+        "full stop" : {"definition" : " " },
+
+        "comma" : {"definition" : " " },
+
+        "pause" : {"definition" : " " },
+
+        "question mark" : {"definition" : " " }
+        
+    }
+}

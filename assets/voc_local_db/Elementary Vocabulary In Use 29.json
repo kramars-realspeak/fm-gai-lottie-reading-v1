@@ -1,0 +1,89 @@
+{ "words" :
+
+    {
+        "train station" : {"definition" : " " },
+
+        "railway station" : {"definition" : " " },
+
+        "get a train" : {"definition" : " " },
+
+        "bus station" : {"definition" : " " },
+
+        "shops" : {"definition" : " " },
+
+        "shopping centre" : {"definition" : " " },
+
+        "tourist information office" : {"definition" : " " },
+
+        "get information" : {"definition" : " " },
+
+        "museum" : {"definition" : " " },
+
+        "bank" : {"definition" : " " },
+
+        "change money" : {"definition" : " " },
+
+        "a cash machine" : {"definition" : " " },
+
+        "post office" : {"definition" : " " },
+
+        "post letters" : {"definition" : " " },
+
+        "parcels" : {"definition" : " " },
+
+        "library" : {"definition" : " " },
+
+        "read books" : {"definition" : " " },
+
+        "newspapers" : {"definition" : " " },
+
+        "town hall" : {"definition" : " " },
+
+        "car park" : {"definition" : " " },
+
+        "park your car" : {"definition" : " " },
+
+        "pedestrian area" : {"definition" : " " },
+
+        "exit" : {"definition" : " " },
+
+        "entrance" : {"definition" : " " },
+
+        "no smoking" : {"definition" : " " },
+
+        "out of order" : {"definition" : " " },
+
+        "Please, keep off the grass." : {"definition" : " " },
+
+        "Where is...?" : {"definition" : " " },
+
+        "go left" : {"definition" : " " },
+
+        "at the end of the road" : {"definition" : " " },
+
+        "How do I get to ... ?" : {"definition" : " " },
+
+        "take the first right" : {"definition" : " " },
+
+        "Is there ... ?" : {"definition" : " " },
+
+        "turn right" : {"definition" : " " },
+
+        "on the left" : {"definition" : " " },
+
+        "Can I ... ?" : {"definition" : " " },
+
+        "there is" : {"definition" : " " },
+
+        "Excuse me, I'm looking for ..." : {"definition" : " " },
+
+        "take the number" : {"definition" : " " },
+
+        "get off at the second stop" : {"definition" : " " },
+
+        "Can you tell me the way to... ?" : {"definition" : " " },
+
+        "on the other side of the road" : {"definition" : " " }
+
+    }
+}

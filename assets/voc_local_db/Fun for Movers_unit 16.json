@@ -1,0 +1,79 @@
+{ "words" :
+
+    {
+        "badminton" : {"definition" : " " },
+
+        "ball game" : {"definition" : " " },
+
+        "basketball" : {"definition" : " " },
+
+        "bat" : {"definition" : " " },
+
+        "dance" : {"definition" : " " },
+
+        "fishing" : {"definition" : " " },
+
+        "football" : {"definition" : " " },
+
+        "game" : {"definition" : " " },
+
+        "hockey" : {"definition" : " " },
+
+        "horse riding" : {"definition" : " " },
+
+        "ice skate" : {"definition" : " " },
+
+        "ice skating" : {"definition" : " " },
+
+        "net" : {"definition" : " " },
+
+        "player" : {"definition" : " " },
+
+        "sailing" : {"definition" : " " },
+
+        "skating" : {"definition" : " " },
+
+        "soccer" : {"definition" : " " },
+
+        "sports centre" : {"definition" : " " },
+
+        "table tennis" : {"definition" : " " },
+
+        "tennis" : {"definition" : " " },
+
+        "TV" : {"definition" : " " },
+
+        "hit" : {"definition" : " " },
+
+        "kick" : {"definition" : " " },
+
+        "laugh" : {"definition" : " " },
+
+        "play" : {"definition" : " " },
+
+        "shout" : {"definition" : " " },
+
+        "swim" : {"definition" : " " },
+
+        "throw" : {"definition" : " " },
+
+        "watch" : {"definition" : " " },
+
+        "boring" : {"definition" : " " },
+
+        "favourite" : {"definition" : " " },
+
+        "fun" : {"definition" : " " },
+
+        "funny" : {"definition" : " " },
+
+        "great" : {"definition" : " " },
+
+        "OK" : {"definition" : " " },
+
+        "Cool!" : {"definition" : " " },
+
+        "Help!" : {"definition" : " " }
+
+    }
+}

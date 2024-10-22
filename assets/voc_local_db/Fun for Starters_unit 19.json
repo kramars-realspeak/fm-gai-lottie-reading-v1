@@ -1,0 +1,29 @@
+{ "words" :
+
+    {
+        "armchair" : {"definition" : " " },
+
+        "bed" : {"definition" : " " },
+
+        "board" : {"definition" : " " },
+
+        "cup" : {"definition" : " " },
+
+        "cupboard" : {"definition" : " " },
+
+        "floor" : {"definition" : " " },
+
+        "phone" : {"definition" : " " },
+
+        "piano" : {"definition" : " " },
+
+        "rug" : {"definition" : " " },
+
+        "wall" : {"definition" : " " },
+
+        "window" : {"definition" : " " },
+
+        "complete" : {"definition" : " " }
+
+    }
+}

@@ -1,0 +1,39 @@
+{ "words" :
+
+    {
+        "sure" : {"definition" : " " },
+
+        "No problem." : {"definition" : " " },
+
+        "Could you ... ?" : {"definition" : " " },
+
+        "I wonder if you could..." : {"definition" : " " },
+
+        "I'm afraid I can't." : {"definition" : " " },
+
+        "polite" : {"definition" : " " },
+
+        "Could I possibly...?" : {"definition" : " " },
+
+        "go ahead" : {"definition" : " " },
+
+        "help yourself" : {"definition" : " " },
+
+        "I don't mind." : {"definition" : " " },
+
+        "Why don't we ... ?" : {"definition" : " " },
+
+        "Let's ..." : {"definition" : " " },
+
+        "Do you fancy ... ?" : {"definition" : " " },
+
+        "shall we" : {"definition" : " " },
+
+        "great idea" : {"definition" : " " },
+
+        "sounds good" : {"definition" : " " },
+
+        "I'd rather..." : {"definition" : " " }
+
+    }
+}

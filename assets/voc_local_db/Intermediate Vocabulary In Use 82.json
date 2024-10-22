@@ -1,0 +1,57 @@
+{ "words" :
+
+    {
+        "give me a headache" : {"definition" : " " },
+
+        "give me an appetite" : {"definition" : " " },
+
+        "give me an idea" : {"definition" : " " },
+
+        "gave you an advice" : {"definition" : " " },
+
+        "gave us a shock" : {"definition" : " " },
+
+        "give a speech" : {"definition" : " " },
+
+        "give a lecture" : {"definition" : " " },
+
+        "give a ring" : {"definition" : " " },
+
+        "gave a hand" : {"definition" : " " },
+
+        "gave a hug" : {"definition" : " " },
+
+        "give a push" : {"definition" : " " },
+
+        "keep right" : {"definition" : " " },
+
+        "keep you warm" : {"definition" : " " },
+
+        "keep quite" : {"definition" : " " },
+
+        "keep me fit" : {"definition" : " " },
+
+        "keep getting" : {"definition" : " " },
+
+        "keep losing" : {"definition" : " " },
+
+        "keep on interrupting" : {"definition" : " " },
+
+        "keep in touch" : {"definition" : " " },
+
+        "kept a secret" : {"definition" : " " },
+
+        "keep it up" : {"definition" : " " },
+
+        "miss a girlfriend" : {"definition" : " " },
+
+        "missed that" : {"definition" : " " },
+
+        "miss a chance" : {"definition" : " " },
+
+        "miss an opportunity" : {"definition" : " " },
+
+        "miss the rush hour" : {"definition" : " " }
+
+    }
+}

@@ -1,0 +1,41 @@
+{ "words" :
+
+    {
+        "hurricane" : {"definition" : " " },
+
+        "snowstorm" : {"definition" : " " },
+
+        "forest fire" : {"definition" : " " },
+
+        "earthquakes" : {"definition" : " " },
+
+        "floods" : {"definition" : " " },
+
+        "crowded" : {"definition" : " " },
+
+        "poor" : {"definition" : " " },
+
+        "hungry" : {"definition" : " " },
+
+        "homeless" : {"definition" : " " },
+
+        "unemployed" : {"definition" : " " },
+
+        "pollution" : {"definition" : " " },
+
+        "polluted" : {"definition" : " " },
+
+        "air pollution" : {"definition" : " " },
+
+        "war" : {"definition" : " " },
+
+        "on strike" : {"definition" : " " },
+        
+        "car crash" : {"definition" : " " },
+
+        "traffic jams" : {"definition" : " " },
+
+        "rush hour" : {"definition" : " " }
+
+    }
+}

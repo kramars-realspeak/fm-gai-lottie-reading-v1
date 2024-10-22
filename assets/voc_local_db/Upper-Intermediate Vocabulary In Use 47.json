@@ -1,0 +1,53 @@
+{ "words" :
+
+    {
+        "yawn" : {"definition" : " " },
+
+        "sneeze" : {"definition" : " " },
+
+        "snore" : {"definition" : " " },
+
+        "cough" : {"definition" : " " },
+
+        "sigh" : {"definition" : " " },
+
+        "be out of breath" : {"definition" : " " },
+
+        "take a deep breath" : {"definition" : " " },
+
+        "hold your breath" : {"definition" : " " },
+
+        "chew" : {"definition" : " " },
+
+        "rumble" : {"definition" : " " },
+
+        "swallow" : {"definition" : " " },
+
+        "suck" : {"definition" : " " },
+
+        "lick" : {"definition" : " " },
+
+        "bite" : {"definition" : " " },
+
+        "wink" : {"definition" : " " },
+
+        "frown" : {"definition" : " " },
+
+        "grin" : {"definition" : " " },
+
+        "blink" : {"definition" : " " },
+
+        "blush" : {"definition" : " " },
+
+        "perspire" : {"definition" : " " },
+
+        "sweat" : {"definition" : " " },
+
+        "shiver" : {"definition" : " " },
+
+        "tremble" : {"definition" : " " },
+
+        "shake" : {"definition" : " " }
+
+    }
+}

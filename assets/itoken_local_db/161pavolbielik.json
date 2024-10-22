@@ -1,0 +1,24 @@
+[
+    {
+    "food": {
+        "soup": ["lentil soup", "chicken soup", "pancakes"],
+        "spaghetti": [],
+        "traditional slovak food" : ["brindzove halusky"]
+    },
+    "sport" : {
+        "football" : [ "football training", "3x per week", "Kylian Mbappé", "Real Madrid", "Messi", "Slovak Liga", "MSK Zilina", "football cards UEFA 365", "his football T-shirt number 6" ],
+        "floorball" : [ "hobby he does over the weekend", "stars academy zlate moravce" ],
+        "hokey" : [ "Juraj Slafkovsky", "MSK Nitra Hokey Club", "Weekend Trips to watch hokey games" ],
+        "bike" : [ "Tour of Peter Sagan in the past" ],
+        "skiing": [ "skiing in the winter in drozdovo" ]
+    },
+    "social media" : {
+        "Coco": [ "favourite TV show" ],
+        "football reels" : ["special kicks, goals, and tricks", "leaderboard", "football challenges"]
+    }, 
+    "playgrounds" : {
+        "Magic playground" : ["Magic Playground in Nitra", "trampolines", "jumping", "climbing", "activity to do with friends", "shooting games"],
+        "adrenalin games" : [ "games that have adrenalin", "feedback"]
+    }
+    }
+]

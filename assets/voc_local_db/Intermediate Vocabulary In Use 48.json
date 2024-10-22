@@ -1,0 +1,81 @@
+{ "words" :
+
+    {
+        "heart" : {"definition" : " " },
+
+        "facilities" : {"definition" : " " },
+
+        "room service" : {"definition" : " " },
+
+        "Internet access" : {"definition" : " " },
+
+        "air conditioning" : {"definition" : " " },
+
+        "parking" : {"definition" : " " },
+
+        "single" : {"definition" : " " },
+
+        "satellite" : {"definition" : " " },
+
+        "twin" : {"definition" : " " },
+
+        "double" : {"definition" : " " },
+
+        "mini-bar" : {"definition" : " " },
+
+        "safe" : {"definition" : " " },
+
+        "avaible" : {"definition" : " " },
+
+        "book a room" : {"definition" : " " },
+
+        "in advance" : {"definition" : " " },
+
+        "fully booked" : {"definition" : " " },
+
+        "check in at reception" : {"definition" : " " },
+
+        "stay" : {"definition" : " " },
+
+        "check out" : {"definition" : " " },
+
+        "reserve" : {"definition" : " " },
+
+        "book a table" : {"definition" : " " },
+
+        "make a reservation" : {"definition" : " " },
+
+        "three-course" : {"definition" : " " },
+
+        "include" : {"definition" : " " },
+
+        "starter" : {"definition" : " " },
+
+        "main course" : {"definition" : " " },
+
+        "dessert" : {"definition" : " " },
+
+        "service" : {"definition" : " " },
+
+        "included" : {"definition" : " " },
+
+        "tip" : {"definition" : " " },
+
+        "Are you ready to order?" : {"definition" : " " },
+
+        "I'll have ..." : {"definition" : " " },
+
+        "mixed salad" : {"definition" : " " },
+
+        "rare" : {"definition" : " " },
+
+        "medium" : {"definition" : " " },
+
+        "well-done" : {"definition" : " " },
+
+        "still" : {"definition" : " " },
+
+        "sparkling" : {"definition" : " " }
+        
+    }
+}

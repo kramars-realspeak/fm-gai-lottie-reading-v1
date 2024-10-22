@@ -1,0 +1,75 @@
+{ "words" :
+
+    {
+        "mammal" : {"definition" : " " },
+
+        "marsupial" : {"definition" : " " },
+
+        "pouch" : {"definition" : " " },
+
+        "reptile" : {"definition" : " " },
+
+        "rodent" : {"definition" : " " },
+
+        "carnivore" : {"definition" : " " },
+        
+        "herbivore" : {"definition" : " " },
+
+        "predator" : {"definition" : " " },
+
+        "scavenger" : {"definition" : " " },
+
+        "warm-blooded" : {"definition" : " " },
+
+        "cold-blooded" : {"definition" : " " },
+
+        "docile" : {"definition" : " " },
+
+        "tame" : {"definition" : " " },
+
+        "domesticated" : {"definition" : " " },
+
+        "wild" : {"definition" : " " },
+
+        "savage" : {"definition" : " " },
+
+        "fierce" : {"definition" : " " },
+
+        "migrates" : {"definition" : " " },
+
+        "migration" : {"definition" : " " },
+
+        "dodo" : {"definition" : " " },
+
+        "bird sanctuary" : {"definition" : " " },
+
+        "animal shelter" : {"definition" : " " },
+
+        "rescue" : {"definition" : " " },
+
+        "game" : {"definition" : " " },
+
+        "became extinct" : {"definition" : " " },
+
+        "game reserves" : {"definition" : " " },
+
+        "game parks" : {"definition" : " " },
+
+        "natural habitat" : {"definition" : " " },
+
+        "stray" : {"definition" : " " },
+
+        "the fur trade" : {"definition" : " " },
+
+        "blood sports" : {"definition" : " " },
+
+        "poachers" : {"definition" : " " },
+
+        "animal rights activists" : {"definition" : " " },
+
+        "horn" : {"definition" : " " },
+
+        "the ivory trade" : {"definition" : " " }
+
+    }
+}

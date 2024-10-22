@@ -1,0 +1,59 @@
+{ "words" :
+
+    {
+        "Is that ... ?" : {"definition" : " " },
+
+        "Could I speak to ... ?" : {"definition" : " " },
+
+        "Who's calling?" : {"definition" : " " },
+
+        "My name is ..." : {"definition" : " " },
+
+        "I'm putting you through..." : {"definition" : " " },
+
+        "speaking" : {"definition" : " " },
+
+        "ring" : {"definition" : " " },
+
+        "on the phone" : {"definition" : " " },
+
+        "give her a ring" : {"definition" : " " },
+
+        "get through" : {"definition" : " " },
+
+        "engaged" : {"definition" : " " },
+
+        "dialled" : {"definition" : " " },
+
+        "the wrong number" : {"definition" : " " },
+
+        "left a message" : {"definition" : " " },
+
+        "answerphone" : {"definition" : " " },
+
+        "out" : {"definition" : " " },
+
+        "phoned back" : {"definition" : " " },
+
+        "home" : {"definition" : " " },
+
+        "landline" : {"definition" : " " },
+
+        "mobile number" : {"definition" : " " },
+
+        "emergency number" : {"definition" : " " },
+
+        "dialling code" : {"definition" : " " },
+
+        "mostly" : {"definition" : " " },
+
+        "mainly" : {"definition" : " " },
+
+        "text" : {"definition" : " " },
+
+        "abbreviations" : {"definition" : " " },
+
+        "in my opinion" : {"definition" : " " }
+
+    }
+}

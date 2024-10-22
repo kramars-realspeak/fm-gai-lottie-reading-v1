@@ -1,0 +1,59 @@
+{ "words" :
+
+    {
+        "baseball cap" : {"definition" : " " },
+
+        "boot" : {"definition" : " " },
+
+        "coat" : {"definition" : " " },
+
+        "dress" : {"definition" : " " },
+        
+        "hat" : {"definition" : " " },
+
+        "helmet" : {"definition" : " " },
+
+        "jacket" : {"definition" : " " },
+
+        "jeans" : {"definition" : " " },
+
+        "pair" : {"definition" : " " },
+
+        "scarf": {"definition" : " " },
+
+        "shirt" : {"definition" : " " },
+
+        "shoe" : {"definition" : " " },
+
+        "shorts" : {"definition" : " " },
+
+        "skirt" : {"definition" : " " },
+
+        "sock" : {"definition" : " " },
+
+        "sweater" : {"definition" : " " },
+
+        "swimsuit" : {"definition" : " " },
+
+        "trousers" : {"definition" : " " },
+
+        "T-shirt" : {"definition" : " " },
+
+        "bag" : {"definition" : " " },
+
+        "glasses" : {"definition" : " " },
+
+        "get dressed" : {"definition" : " " },
+
+        "put on" : {"definition" : " " },
+
+        "wear" : {"definition" : " " },
+
+        "behind" : {"definition" : " " },
+
+        "into" : {"definition" : " " },
+
+        "next to" : {"definition" : " " }
+        
+    }
+}

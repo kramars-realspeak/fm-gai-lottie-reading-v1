@@ -1,0 +1,87 @@
+{ "words" :
+
+    {
+        "bin" : {"definition" : " " },
+
+        "book" : {"definition" : " " },
+
+        "bookcase" : {"definition" : " " },
+
+        "chair" : {"definition" : " " },
+
+        "classroom" : {"definition" : " " },
+
+        "cupboard" : {"definition" : " " },
+
+        "desk" : {"definition" : " " },
+
+        "dictionary" : {"definition" : " " },
+
+        "eraser" : {"definition" : " " },
+
+        "file" : {"definition" : " " },
+
+        "glue" : {"definition" : " " },
+
+        "pen" : {"definition" : " " },
+
+        "rubber" : {"definition" : " " },
+
+        "ruler" : {"definition" : " " },
+
+        "scissors" : {"definition" : " " },
+
+        "shelf" : {"definition" : " " },
+
+        "spelling" : {"definition" : " " },
+
+        "band" : {"definition" : " " },
+
+        "concert" : {"definition" : " " },
+
+        "music festival" : {"definition" : " " },
+
+        "date" : {"definition" : " " },
+
+        "day" : {"definition" : " " },
+
+        "card" : {"definition" : " " },
+
+        "break" : {"definition" : " " },
+
+        "complete" : {"definition" : " " },
+
+        "cut" : {"definition" : " " },
+
+        "draw a circle" : {"definition" : " " },
+
+        "forget" : {"definition" : " " },
+
+        "keep" : {"definition" : " " },
+
+        "information" : {"definition" : " " },
+
+        "make sure" : {"definition" : " " },
+
+        "put" : {"definition" : " " },
+
+        "repair" : {"definition" : " " },
+
+        "tick" : {"definition" : " " },
+
+        "try" : {"definition" : " " },
+
+        "understand" : {"definition" : " " },
+
+        "difficult" : {"definition" : " " },
+
+        "easy" : {"definition" : " " },
+
+        "special" : {"definition" : " " },
+
+        "thin" : {"definition" : " " },
+
+        "It's good idea to..." : {"definition" : " " }
+
+    }
+}

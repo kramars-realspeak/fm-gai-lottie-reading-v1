@@ -1,0 +1,51 @@
+{ "words" :
+
+    {
+        "bag" : {"definition" : " " },
+
+        "barrel" : {"definition" : " " },
+
+        "basket" : {"definition" : " " },
+
+        "bottle" : {"definition" : " " },
+
+        "bowl" : {"definition" : " " },
+
+        "box" : {"definition" : " " },
+
+        "bucket" : {"definition" : " " },
+
+        "mug" : {"definition" : " " },
+
+        "jug" : {"definition" : " " },
+
+        "jar" : {"definition" : " " },
+
+        "glass" : {"definition" : " " },
+
+        "crate" : {"definition" : " " },
+
+        "case" : {"definition" : " " },
+
+        "carton" : {"definition" : " " },
+
+        "can" : {"definition" : " " },
+
+        "pack" : {"definition" : " " },
+
+        "packet" : {"definition" : " " },
+
+        "pan" : {"definition" : " " },
+
+        "pot" : {"definition" : " " },
+
+        "sack" : {"definition" : " " },
+
+        "tin" : {"definition" : " " },
+
+        "tub" : {"definition" : " " },
+
+        "tube" : {"definition" : " " }
+
+    }
+}

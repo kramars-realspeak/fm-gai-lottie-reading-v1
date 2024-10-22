@@ -1,0 +1,85 @@
+{ "words" :
+
+    {
+        "hat" : {"definition" : " " },
+
+        "luggage" : {"definition" : " " },
+
+        "baggage" : {"definition" : " " },
+
+        "accommodation" : {"definition" : " " },
+
+        "money" : {"definition" : " " },
+
+        "currency" : {"definition" : " " },
+
+        "information" : {"definition" : " " },
+
+        "transport" : {"definition" : " " },
+
+        "travel" : {"definition" : " " },
+
+        "journey" : {"definition" : " " },
+
+        "trip" : {"definition" : " " },
+
+        "food" : {"definition" : " " },
+
+        "sugar" : {"definition" : " " },
+
+        "rice" : {"definition" : " " },
+
+        "spaghetti" : {"definition" : " " },
+
+        "butter" : {"definition" : " " },
+
+        "bread" : {"definition" : " " },
+
+        "flour" : {"definition" : " " },
+
+        "soup" : {"definition" : " " },
+
+        "advice" : {"definition" : " " },
+
+        "knowledge" : {"definition" : " " },
+
+        "progress" : {"definition" : " " },
+
+        "research" : {"definition" : " " },
+
+        "work" : {"definition" : " " },
+
+        "homework" : {"definition" : " " },
+
+        "experience" : {"definition" : " " },
+
+        "wealth" : {"definition" : " " },
+
+        "poverty" : {"definition" : " " },
+        
+        "cloth" : {"definition" : " " },
+
+        "leather" : {"definition" : " " },
+
+        "coal" : {"definition" : " " },
+
+        "oil" : {"definition" : " " },
+
+        "stone" : {"definition" : " " },
+
+        "brick" : {"definition" : " " },
+
+        "plastic" : {"definition" : " " },
+
+        "equipment" : {"definition" : " " },
+
+        "software" : {"definition" : " " },
+
+        "news" : {"definition" : " " },
+
+        "weather" : {"definition" : " " },
+
+        "some new furniture" : {"definition" : " " }
+
+    }
+}

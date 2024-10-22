@@ -1,0 +1,67 @@
+{ "words" :
+
+    {
+        "sore throat" : {"definition" : " " },
+
+        "temperature" : {"definition" : " " },
+
+        "flu" : {"definition" : " " },
+
+        "cut" : {"definition" : " " },
+
+        "bleeding" : {"definition" : " " },
+
+        "bandage" : {"definition" : " " },
+
+        "cough" : {"definition" : " " },
+
+        "medicine" : {"definition" : " " },
+
+        "headache" : {"definition" : " " },
+
+        "feel sick" : {"definition" : " " },
+
+        "tablets" : {"definition" : " " },
+
+        "pills" : {"definition" : " " },
+
+        "pain" : {"definition" : " " },
+
+        "ache" : {"definition" : " " },
+
+        "headache" : {"definition" : " " },
+
+        "stomach ache" : {"definition" : " " },
+
+        "suffers from" : {"definition" : " " },
+
+        "backache" : {"definition" : " " },
+
+        "aching" : {"definition" : " " },
+
+        "hurt" : {"definition" : " " },
+
+        "painful" : {"definition" : " " },
+
+        "serious" : {"definition" : " " },
+
+        "patient" : {"definition" : " " },
+
+        "operation" : {"definition" : " " },
+
+        "surgeons" : {"definition" : " " },
+
+        "surgery" : {"definition" : " " },
+
+        "lung cancer" : {"definition" : " " },
+
+        "heart attacks" : {"definition" : " " },
+
+        "disease" : {"definition" : " " },
+
+        "illness" : {"definition" : " " },
+
+        "liver" : {"definition" : " " }
+
+    }
+}

@@ -1,0 +1,73 @@
+{ "words" :
+
+    {
+        "traffic lights" : {"definition" : " " },
+
+        "junction" : {"definition" : " " },
+
+        "bend" : {"definition" : " " },
+
+        "pedestrian crossing" : {"definition" : " " },
+
+        "brigde" : {"definition" : " " },
+
+        "motorway" : {"definition" : " " },
+
+        "inside" : {"definition" : " " },
+
+        "slow lane" : {"definition" : " " },
+
+        "outside" : {"definition" : " " },
+
+        "fast lane" : {"definition" : " " },
+
+        "got lost" : {"definition" : " " },
+
+        "on my way to" : {"definition" : " " },
+
+        "via" : {"definition" : " " },
+
+        "turning" : {"definition" : " " },
+
+        "ended up" : {"definition" : " " },
+
+        "ask someone the way" : {"definition" : " " },
+
+        "directed" : {"definition" : " " },
+
+        "sign" : {"definition" : " " },
+
+        "accident" : {"definition" : " " },
+
+        "main road" : {"definition" : " " },
+
+        "pedestrian" : {"definition" : " " },
+
+        "pavement" : {"definition" : " " },
+
+        "approaching" : {"definition" : " " },
+
+        "braked" : {"definition" : " " },
+
+        "swerved" : {"definition" : " " },
+
+        "crashed into a parked car" : {"definition" : " " },
+
+        "injured" : {"definition" : " " },
+
+        "damage" : {"definition" : " " },
+
+        "brake" : {"definition" : " " },
+
+        "injure" : {"definition" : " " },
+
+        "injury" : {"definition" : " " },
+
+        "road signs" : {"definition" : " " },
+
+        "no overtaking" : {"definition" : " " },
+
+        "speed limit" : {"definition" : " " }
+
+    }
+}

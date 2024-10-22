@@ -1,0 +1,47 @@
+{ "words" :
+
+    {
+        "because" : {"definition" : " " },
+
+        "as" : {"definition" : " " },
+
+        "since" : {"definition" : " " },
+
+        "so" : {"definition" : " " },
+
+        "the reason" : {"definition" : " " },
+
+        "was that" : {"definition" : " " },
+
+        "because of" : {"definition" : " " },
+
+        "due to" : {"definition" : " " },
+
+        "purpose" : {"definition" : " " },
+
+        "purpose of" : {"definition" : " " },
+
+        "that" : {"definition" : " " },
+
+        "in order" : {"definition" : " " },
+
+        "to" : {"definition" : " " },
+
+        "could" : {"definition" : " " },
+
+        "therefore" : {"definition" : " " },
+
+        "as a result" : {"definition" : " " },
+
+        "whether" : {"definition" : " " },
+
+        "unless" : {"definition" : " " },
+
+        "otherwise" : {"definition" : " " },
+
+        "as long as" : {"definition" : " " },
+
+        "in case" : {"definition" : " " }
+
+    }
+}

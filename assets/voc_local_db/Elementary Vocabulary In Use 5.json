@@ -1,0 +1,79 @@
+{ "words" :
+
+    {
+        "tall" : {"definition" : " " },
+
+        "short" : {"definition" : " " },
+
+        "medium height" : {"definition" : " " },
+
+        "slim" : {"definition" : " " },
+
+        "thin" : {"definition" : " " },
+
+        "overweight" : {"definition" : " " },
+
+        "fat" : {"definition" : " " },
+
+        "dark skin" : {"definition" : " " },
+
+        "dark hair" : {"definition" : " " },
+
+        "brown" : {"definition" : " " },
+
+        "blonde hair" : {"definition" : " " },
+
+        "fair hair" : {"definition" : " " },
+
+        "fair skin" : {"definition" : " " },
+
+        "blue" : {"definition" : " " },
+
+        "beard" : {"definition" : " " },
+
+        "long hair" : {"definition" : " " },
+
+        "green" : {"definition" : " " },
+
+        "moustache" : {"definition" : " " },
+
+        "short hair" : {"definition" : " " },
+
+        "has got dark hair" : {"definition" : " " },
+
+        "dark skin" : {"definition" : " " },
+
+        "beautiful" : {"definition" : " " },
+
+        "good-looking" : {"definition" : " " },
+
+        "pretty" : {"definition" : " " },
+
+        "ugly" : {"definition" : " " },
+
+        "average-looking" : {"definition" : " " },
+
+        "old" : {"definition" : " " },
+
+        "young" : {"definition" : " " },
+
+        "older" : {"definition" : " " },
+
+        "middle-aged" : {"definition" : " " },
+
+        "younger" : {"definition" : " " },
+
+        "elderly" : {"definition" : " " },
+
+        "How tall ... ?" : {"definition" : " " },
+
+        "How heavy are you?" : {"definition" : " " },
+
+        "How much do you weigh?" : {"definition" : " " },
+
+        "How old is he?" : {"definition" : " " },
+
+        "What does she look like?" : {"definition" : " " }
+
+    }
+}

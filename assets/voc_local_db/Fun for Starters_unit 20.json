@@ -1,0 +1,35 @@
+{ "words" :
+
+    {
+        "poster" : {"definition" : " " },
+
+        "sofa" : {"definition" : " " },
+
+        "places" : {"definition" : " " },
+
+        "bookshop" : {"definition" : " " },
+
+        "park" : {"definition" : " " },
+
+        "shop" : {"definition" : " " },
+
+        "closed" : {"definition" : " " },
+
+        "open" : {"definition" : " " },
+
+        "tall" : {"definition" : " " },
+
+        "behind" : {"definition" : " " },
+
+        "in front of" : {"definition" : " " },
+
+        "determiners" : {"definition" : " " },
+
+        "lots of" : {"definition" : " " },
+
+        "many" : {"definition" : " " },
+
+        "no" : {"definition" : " " }
+
+    }
+}

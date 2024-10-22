@@ -1,0 +1,33 @@
+{ "words" :
+
+    {
+        "child" : {"definition" : " " },
+
+        "children" : {"definition" : " " },
+
+        "fish" : {"definition" : " " },
+
+        "foot" : {"definition" : " " },
+
+        "feet" : {"definition" : " " },
+
+        "man" : {"definition" : " " },
+
+        "men" : {"definition" : " " },
+
+        "mouse" : {"definition" : " " },
+        
+        "mice" : {"definition" : " " },
+
+        "person" : {"definition" : " " },
+
+        "people" : {"definition" : " " },
+
+        "sheep" : {"definition" : " " },
+
+        "woman" : {"definition" : " " },
+
+        "women" : {"definition" : " " }
+
+    }
+}

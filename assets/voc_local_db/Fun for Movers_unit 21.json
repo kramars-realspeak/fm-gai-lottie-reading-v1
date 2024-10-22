@@ -1,0 +1,61 @@
+{ "words" :
+
+    {
+        "cafe" : {"definition" : " " },
+
+        "cinema" : {"definition" : " " },
+
+        "circus" : {"definition" : " " },
+
+        "library" : {"definition" : " " },
+
+        "park" : {"definition" : " " },
+
+        "station" : {"definition" : " " },
+
+        "sweet shop" : {"definition" : " " },
+
+        "town" : {"definition" : " " },
+
+        "clown" : {"definition" : " " },
+
+        "chair" : {"definition" : " " },
+
+        "wave" : {"definition" : " " },
+
+        "tiger" : {"definition" : " " },
+
+        "postcard" : {"definition" : " " },
+
+        "ticket" : {"definition" : " " },
+
+        "handbag" : {"definition" : " " },
+
+        "catch a bus" : {"definition" : " " },
+
+        "choose" : {"definition" : " " },
+
+        "go for a swim" : {"definition" : " " },
+
+        "have a drink" : {"definition" : " " },
+
+        "have lunch" : {"definition" : " " },
+
+        "see a doctor" : {"definition" : " " },
+
+        "here" : {"definition" : " " },
+
+        "there" : {"definition" : " " },
+
+        "What?" : {"definition" : " " },
+
+        "Where?" : {"definition" : " " },
+
+        "Who?" : {"definition" : " " },
+
+        "I've got to go!" : {"definition" : " " },
+
+        "See you!" : {"definition" : " " }
+
+    }
+}

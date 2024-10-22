@@ -1,0 +1,61 @@
+{ "words" :
+
+    {
+        "food" : {"definition" : " " },
+
+        "drink" : {"definition" : " " },
+
+        "apple" : {"definition" : " " },
+
+        "banana" : {"definition" : " " },
+
+        "bean" : {"definition" : " " },
+
+        "carrot" : {"definition" : " " },
+
+        "coconut" : {"definition" : " " },
+
+        "egg" : {"definition" : " " },
+
+        "fruit" : {"definition" : " " },
+
+        "grape" : {"definition" : " " },
+
+        "kiwi" : {"definition" : " " },
+
+        "lemon" : {"definition" : " " },
+
+        "lemonade" : {"definition" : " " },
+
+        "lime" : {"definition" : " " },
+
+        "mango" : {"definition" : " " },
+
+        "milk" : {"definition" : " " },
+
+        "onion" : {"definition" : " " },
+
+        "orange" : {"definition" : " " },
+
+        "pea" : {"definition" : " " },
+
+        "pear" : {"definition" : " " },
+
+        "pineapple" : {"definition" : " " },
+
+        "pizza" : {"definition" : " " },
+
+        "potato" : {"definition" : " " },
+
+        "tomato" : {"definition" : " " },
+
+        "vegetable" : {"definition" : " " },
+
+        "watermelon" : {"definition" : " " },
+
+        "eat" : {"definition" : " " },
+
+        "round" : {"definition" : " " }
+
+    }
+}

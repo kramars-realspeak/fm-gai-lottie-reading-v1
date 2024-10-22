@@ -1,0 +1,55 @@
+{ "words" :
+
+    {
+        "very well" : {"definition" : " " },
+
+        "fine" : {"definition" : " " },
+
+        "don't feel very well" : {"definition" : " " },
+
+        "feel ill" : {"definition" : " " },
+
+        "doctor" : {"definition" : " " },
+
+        "sick" : {"definition" : " " },
+
+        "an aspirin" : {"definition" : " " },
+
+        "I've got a headache" : {"definition" : " " },
+
+        "I've got toothache" : {"definition" : " " },
+
+        "dentist" : {"definition" : " " },
+
+        "I've got a cold" : {"definition" : " " },
+
+        "hay fever" : {"definition" : " " },
+
+        "sneeze" : {"definition" : " " },
+
+        "asthma" : {"definition" : " " },
+
+        "mosquito" : {"definition" : " " },
+
+        "malaria" : {"definition" : " " },
+
+        "cholera" : {"definition" : " " },
+
+        "cancer" : {"definition" : " " },
+
+        "hospital" : {"definition" : " " },
+
+        "had a heart attack" : {"definition" : " " },
+
+        "have a healthy diet" : {"definition" : " " },
+
+        "exercise" : {"definition" : " " },
+
+        "good for you" : {"definition" : " " },
+
+        "I feel stressed" : {"definition" : " " },
+
+        "relax" : {"definition" : " " }
+
+    }
+}

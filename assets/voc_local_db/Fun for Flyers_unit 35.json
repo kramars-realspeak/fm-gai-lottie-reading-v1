@@ -1,0 +1,65 @@
+{ "words" :
+
+    {
+        "glass" : {"definition" : " " },
+
+        "gold" : {"definition" : " " },
+
+        "metal" : {"definition" : " " },
+
+        "paper" : {"definition" : " " },
+
+        "plastic" : {"definition" : " " },
+
+        "silver" : {"definition" : " " },
+
+        "stone" : {"definition" : " " },
+
+        "wood" : {"definition" : " " },
+
+        "wool" : {"definition" : " " },
+
+        "card" : {"definition" : " " },
+
+        "mouse" : {"definition" : " " },
+
+        "envelope" : {"definition" : " " },
+
+        "fan" : {"definition" : " " },
+
+        "key" : {"definition" : " " },
+
+        "lamp" : {"definition" : " " },
+
+        "mirror" : {"definition" : " " },
+
+        "rug" : {"definition" : " " },
+
+        "window" : {"definition" : " " },
+
+        "drum" : {"definition" : " " },
+
+        "toy" : {"definition" : " " },
+
+        "burn" : {"definition" : " " },
+
+        "come from" : {"definition" : " " },
+
+        "flat" : {"definition" : " " },
+
+        "hard" : {"definition" : " " },
+
+        "untidy" : {"definition" : " " },
+
+        "often" : {"definition" : " " },
+
+        "sometimes" : {"definition" : " " },
+
+        "usually" : {"definition" : " " },
+
+        "for a long time" : {"definition" : " " },
+
+        "in the middle of" : {"definition" : " " }
+        
+    }
+}

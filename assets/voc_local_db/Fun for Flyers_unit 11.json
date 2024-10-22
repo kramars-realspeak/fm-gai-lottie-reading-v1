@@ -1,0 +1,103 @@
+{ "words" :
+
+    {
+        "beach" : {"definition" : " " },
+
+        "desert" : {"definition" : " " },
+
+        "forest" : {"definition" : " " },
+
+        "island" : {"definition" : " " },
+
+        "lake" : {"definition" : " " },
+
+        "leaf" : {"definition" : " " },
+
+        "mountain" : {"definition" : " " },
+
+        "sand" : {"definition" : " " },
+
+        "shell" : {"definition" : " " },
+
+        "sky" : {"definition" : " " },
+
+        "stream" : {"definition" : " " },
+
+        "tree" : {"definition" : " " },
+
+        "waterfall" : {"definition" : " " },
+
+        "city" : {"definition" : " " },
+
+        "town" : {"definition" : " " },
+
+        "village" : {"definition" : " " },
+
+        "blanket" : {"definition" : " " },
+
+        "camera" : {"definition" : " " },
+
+        "camping" : {"definition" : " " },
+
+        "camping beds" : {"definition" : " " },
+
+        "chess game" : {"definition" : " " },
+
+        "puzzle book" : {"definition" : " " },
+
+        "tent" : {"definition" : " " },
+
+        "torch" : {"definition" : " " },
+
+        "camp" : {"definition" : " " },
+
+        "fall off" : {"definition" : " " },
+
+        "grow" : {"definition" : " " },
+
+        "have a wonderful time" : {"definition" : " " },
+
+        "need" : {"definition" : " " },
+
+        "take for a walk" : {"definition" : " " },
+
+        "walk up" : {"definition" : " " },
+
+        "would like to" : {"definition" : " " },
+
+        "deep" : {"definition" : " " },
+
+        "empty" : {"definition" : " " },
+
+        "low" : {"definition" : " " },
+
+        "tall" : {"definition" : " " },
+
+        "at the bottom" : {"definition" : " " },
+
+        "of" : {"definition" : " " },
+
+        "by" : {"definition" : " " },
+
+        "in" : {"definition" : " " },
+
+        "next to" : {"definition" : " " },
+
+        "on" : {"definition" : " " },
+
+        "round" : {"definition" : " " },
+
+        "under" : {"definition" : " " },
+
+        "How are you?" : {"definition" : " " },
+
+        "Is everything OK?" : {"definition" : " " },
+
+        "No problem!" : {"definition" : " " },
+
+        "Of course!" : {"definition" : " " },
+
+        "What about?" : {"definition" : " " }
+
+    }
+}

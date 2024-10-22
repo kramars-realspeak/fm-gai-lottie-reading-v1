@@ -1,0 +1,22 @@
+{
+  "slot":  {
+    "date": "21.10.2024",
+    "group_alias": "T_KIDS"
+  },
+  "prompt": {
+      "include_ss": false,
+      "premise": {
+          "include_custom_premise": true,
+          "text": "Students going on an adventurous fun adventure in Myanmar when they grow up"
+      }
+  },
+  "ms_interest_token": {
+    "active": false,
+    "target_student": "random"
+  },
+  "metadata": {
+      "analyst": "M-Maker25",
+      "model_alias": "fm-gai-lottie-reading-v1",
+      "model_version": "1.0"
+  }
+}

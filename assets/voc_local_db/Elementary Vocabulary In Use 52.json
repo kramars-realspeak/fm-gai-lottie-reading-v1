@@ -1,0 +1,59 @@
+{ "words" :
+
+    {
+        "now" : {"definition" : " " },
+
+        "then" : {"definition" : " " },
+
+        "o'clock" : {"definition" : " " },
+
+        "an hour ago" : {"definition" : " " },
+
+        "at" : {"definition" : " " },
+
+        "for two years" : {"definition" : " " },
+
+        "from 2014 to 2016" : {"definition" : " " },
+
+        "last year" : {"definition" : " " },
+
+        "next summer" : {"definition" : " " },
+
+        "the past" : {"definition" : " " },
+
+        "the present" : {"definition" : " " },
+
+        "the future" : {"definition" : " " },
+
+        "always" : {"definition" : " " },
+
+        "usually" : {"definition" : " " },
+
+        "often" : {"definition" : " " },
+
+        "sometimes" : {"definition" : " " },
+
+        "occasionally" : {"definition" : " " },
+
+        "not often" : {"definition" : " " },
+
+        "rarely" : {"definition" : " " },
+
+        "never" : {"definition" : " " },
+
+        "once a week" : {"definition" : " " },
+
+        "twice a day" : {"definition" : " " },
+
+        "three times a year" : {"definition" : " " },
+
+        "in a moment" : {"definition" : " " },
+
+        "at the moment" : {"definition" : " " },
+
+        "soon" : {"definition" : " " },
+
+        "recently" : {"definition" : " " }
+
+    }
+}

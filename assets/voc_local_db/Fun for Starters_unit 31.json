@@ -1,0 +1,27 @@
+{ "words" :
+
+    {
+        "school bus" : {"definition" : " " },
+
+        "close" : {"definition" : " " },
+
+        "come to school" : {"definition" : " " },
+
+        "drive a car" : {"definition" : " " },
+
+        "fly a plane" : {"definition" : " " },
+
+        "go home" : {"definition" : " " },
+
+        "open" : {"definition" : " " },
+
+        "ride a motorbike" : {"definition" : " " },
+
+        "nice" : {"definition" : " " },
+
+        "by {bike|car}" : {"definition" : " " },
+
+        "How do you come to school?" : {"definition" : " " }
+
+    }
+}

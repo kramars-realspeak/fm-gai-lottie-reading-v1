@@ -1,0 +1,61 @@
+{ "words" :
+
+    {
+        "here" : {"definition" : " " },
+
+        "there" : {"definition" : " " },
+
+        "back" : {"definition" : " " },
+
+        "everywhere" : {"definition" : " " },
+
+        "in the kitchen" : {"definition" : " " },
+
+        "in the village" : {"definition" : " " },
+
+        "in Seoul" : {"definition" : " " },
+
+        "in South Korea" : {"definition" : " " },
+
+        "in Asia" : {"definition" : " " },
+
+        "at the station" : {"definition" : " " },
+
+        "at the front of the class" : {"definition" : " " },
+
+        "on the wall" : {"definition" : " " },
+
+        "on the chair" : {"definition" : " " },
+
+        "on it" : {"definition" : " " },
+
+        "top" : {"definition" : " " },
+
+        "middle" : {"definition" : " " },
+
+        "bottom" : {"definition" : " " },
+        
+        "front" : {"definition" : " " },
+
+        "side" : {"definition" : " " },
+
+        "back" : {"definition" : " " },
+
+        "beginning" : {"definition" : " " },
+
+        "end" : {"definition" : " " },
+
+        "left" : {"definition" : " " },
+
+        "right" : {"definition" : " " },
+
+        "at home" : {"definition" : " " },
+
+        "out" : {"definition" : " " },
+
+        "away" : {"definition" : " " },
+
+        "abroad" : {"definition" : " " }
+
+    }
+}

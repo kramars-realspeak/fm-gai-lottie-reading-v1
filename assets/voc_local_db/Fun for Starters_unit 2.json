@@ -1,0 +1,67 @@
+{ "words" :
+
+    {
+        "numbers": {"definition" : " " },
+        
+        "one" : {"definition" : " " },
+
+        "two" : {"definition" : " " }, 
+
+        "three" : {"definition" : " " }, 
+
+        "four" : {"definition" : " " }, 
+
+        "five" : {"definition" : " " }, 
+
+        "six" : {"definition" : " " }, 
+
+        "seven" : {"definition" : " " }, 
+
+        "eight" : {"definition" : " " }, 
+
+        "nine" : {"definition" : " " }, 
+
+        "ten" : {"definition" : " " }, 
+
+        "eleven" : {"definition" : " " }, 
+
+        "twelve" : {"definition" : " " }, 
+
+        "thirteen" : {"definition" : " " }, 
+
+        "fourteen" : {"definition" : " " }, 
+
+        "fifteen" : {"definition" : " " }, 
+
+        "sixteen" : {"definition" : " " }, 
+
+        "seventeen" : {"definition" : " " }, 
+
+        "eighteen" : {"definition" : " " }, 
+
+        "nineteen" : {"definition" : " " }, 
+
+        "twenty" : {"definition" : " " }, 
+
+        "possessions" : {"definition" : " " }, 
+
+        "ball" : {"definition" : " " }, 
+
+        "book" : {"definition" : " " }, 
+
+        "football" : {"definition" : " " }, 
+
+        "toy" : {"definition" : " " }, 
+
+        "clothes" : {"definition" : " " }, 
+
+        "shoe" : {"definition" : " " }, 
+
+        "sock" : {"definition" : " " }, 
+
+        "colour" : {"definition" : " "}
+
+        "write" : {"definition" : " " }
+
+    }
+}

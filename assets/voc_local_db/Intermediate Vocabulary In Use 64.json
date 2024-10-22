@@ -1,0 +1,53 @@
+{ "words" :
+
+    {
+        "a bag of" : {"definition" : " " },
+
+        "a bottle of" : {"definition" : " " },
+
+        "a jar of" : {"definition" : " " },
+
+        "a bowl of" : {"definition" : " " },
+
+        "a jug of" : {"definition" : " " },
+
+        "a box of" : {"definition" : " " },
+
+        "a packet of" : {"definition" : " " },
+
+        "a can of" : {"definition" : " " },
+
+        "a carton of" : {"definition" : " " },
+
+        "a bar of" : {"definition" : " " },
+
+        "a tin of" : {"definition" : " " },
+
+        "a vase of" : {"definition" : " " },
+
+        "a tube of" : {"definition" : " " },
+
+        "slices of" : {"definition" : " " },
+
+        "a drop of" : {"definition" : " " },
+
+        "bunch of" : {"definition" : " " },
+
+        "pairs of" : {"definition" : " " },
+
+        "a couple of" : {"definition" : " " },
+
+        "several" : {"definition" : " " },
+
+        "half a dozen" : {"definition" : " " },
+
+        "dosen" : {"definition" : " " },
+
+        "a spoonful" : {"definition" : " " },
+
+        "plenty of" : {"definition" : " " },
+
+        "in large quantities" : {"definition" : " " }
+
+    }
+}

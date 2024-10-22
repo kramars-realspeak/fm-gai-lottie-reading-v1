@@ -1,0 +1,49 @@
+{ "words" :
+
+    {
+        "say" : {"definition" : " " },
+
+        "said that" : {"definition" : " " },
+
+        "hello" : {"definition" : " " },
+
+        "goodbey" : {"definition" : " " },
+
+        "please" : {"definition" : " " },
+
+        "thank you" : {"definition" : " " },
+
+        "Happy Birthday" : {"definition" : " " },
+
+        "Merry Chirstmas" : {"definition" : " " },
+
+        "Happy New Year" : {"definition" : " " },
+
+        "Congratulatoins!" : {"definition" : " " },
+
+        "tell" : {"definition" : " " },
+
+        "tell me when" : {"definition" : " " },
+
+        "tell me how" : {"definition" : " " },
+
+        "tell someone the time" : {"definition" : " " },
+
+        "ask" : {"definition" : " " },
+
+        "ask somebody the way" : {"definition" : " " },
+
+        "ask you a question" : {"definition" : " " },
+
+        "I ask him to ..." : {"definition" : " " },
+
+        "asked for" : {"definition" : " " },
+
+        "talk to" : {"definition" : " " },
+
+        "answer" : {"definition" : " " },
+
+        "reply to" : {"definition" : " " }
+        
+    }
+}

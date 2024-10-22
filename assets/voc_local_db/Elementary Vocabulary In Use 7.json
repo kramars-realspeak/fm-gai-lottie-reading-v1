@@ -1,0 +1,69 @@
+{ "words" :
+
+    {
+        "love" : {"definition" : " " },
+
+        "like" : {"definition" : " " },
+
+        "don't like" : {"definition" : " " },
+
+        "hate" : {"definition" : " " },
+
+        "happy" : {"definition" : " " },
+
+        "sad" : {"definition" : " " },
+
+        "angry" : {"definition" : " " },
+
+        "upsed" : {"definition" : " " },
+
+        "cold" : {"definition" : " " },
+
+        "hot" : {"definition" : " " },
+
+        "thirsty" : {"definition" : " " },
+
+        "hungry" : {"definition" : " " },
+
+        "well" : {"definition" : " " },
+
+        "ill" : {"definition" : " " },
+
+        "tired" : {"definition" : " " },
+
+        "surprised" : {"definition" : " " },
+
+        "happy about" : {"definition" : " " },
+
+        "happy for" : {"definition" : " " },
+
+        "I want you to help me" : {"definition" : " " },
+
+        "Do you like ... ?" : {"definition" : " " },
+
+        "I really like" : {"definition" : " " },
+
+        "I don't like" : {"definition" : " " },
+
+        "very well" : {"definition" : " " },
+
+        "How about ... ?" : {"definition" : " " },
+
+        "a bit tired" : {"definition" : " " },
+
+        "a little tired" : {"definition" : " " },
+
+        "I prefer ... to ..." : {"definition" : " " },
+
+        "I like ... more than ..." : {"definition" : " " },
+
+        "I hope to do" : {"definition" : " " },
+
+        "I hope" : {"definition" : " " },
+
+        "I want" : {"definition" : " " },
+
+        "I want to buy" : {"definition" : " " }
+
+    }
+}

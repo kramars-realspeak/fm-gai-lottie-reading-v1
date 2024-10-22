@@ -1,0 +1,59 @@
+{ "words" :
+
+    {
+        "cappuccino" : {"definition" : " " },
+
+        "latte" : {"definition" : " " },
+
+        "black coffee" : {"definition" : " " },
+
+        "hot chocolate" : {"definition" : " " },
+
+        "milkshake" : {"definition" : " " },
+
+        "herbal tea" : {"definition" : " " },
+
+        "decaf" : {"definition" : " " },
+
+        "smoothie" : {"definition" : " " },
+
+        "waffle" : {"definition" : " " },
+
+        "toastie" : {"definition" : " " },
+
+        "panini" : {"definition" : " " },
+
+        "bagel" : {"definition" : " " },
+
+        "wrap" : {"definition" : " " },
+
+        "crisps" : {"definition" : " " },
+
+        "baguette" : {"definition" : " " },
+
+        "muffin" : {"definition" : " " },
+
+        "cupcake" : {"definition" : " " },
+
+        "croissant" : {"definition" : " " },
+
+        "regular" : {"definition" : " " },
+
+        "large" : {"definition" : " " },
+
+        "to have in" : {"definition" : " " },
+
+        "take away" : {"definition" : " " },
+
+        "What's in ...?" : {"definition" : " " },
+
+        "vegetarian" : {"definition" : " " },
+
+        "heated up" : {"definition" : " " },
+
+        "napkins" : {"definition" : " " },
+
+        "tray" : {"definition" : " " }
+
+    }
+}

@@ -1,0 +1,41 @@
+{ "words" :
+
+    {
+        "good" : {"definition" : " " },
+
+        "nice" : {"definition" : " " },
+
+        "lovely" : {"definition" : " " },
+
+        "great" : {"definition" : " " },
+
+        "wonderful" : {"definition" : " " },
+
+        "excellent" : {"definition" : " " },
+
+        "very good" : {"definition" : " " },
+
+        "bad" : {"definition" : " " },
+
+        "very bad" : {"definition" : " " },
+
+        "dreadful" : {"definition" : " " },
+
+        "horrible" : {"definition" : " " },
+
+        "terrible" : {"definition" : " " },
+
+        "awful" : {"definition" : " " },
+
+        "How awful!" : {"definition" : " " },
+
+        "How horrible!" : {"definition" : " " },
+
+        "How nice" : {"definition" : " " },
+
+        "How wonderful" : {"definition" : " " },
+
+        "How lovely!" : {"definition" : " " }
+
+    }
+}

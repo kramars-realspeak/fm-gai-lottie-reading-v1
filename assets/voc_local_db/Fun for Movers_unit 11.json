@@ -1,0 +1,111 @@
+{ "words" :
+
+    {
+        "apple" : {"definition" : " " },
+
+        "banana" : {"definition" : " " },
+
+        "coconut" : {"definition" : " " },
+
+        "fruit" : {"definition" : " " },
+
+        "grape" : {"definition" : " " },
+
+        "kiwi" : {"definition" : " " },
+
+        "lemon" : {"definition" : " " },
+
+        "lime" : {"definition" : " " },
+
+        "mango" : {"definition" : " " },
+
+        "orange" : {"definition" : " " },
+
+        "pear" : {"definition" : " " },
+
+        "pineapple" : {"definition" : " " },
+
+        "watermelon" : {"definition" : " " },
+
+        "burger" : {"definition" : " " },
+
+        "chicken" : {"definition" : " " },
+
+        "meatballs" : {"definition" : " " },
+
+        "sausage" : {"definition" : " " },
+
+        "bean" : {"definition" : " " },
+
+        "carrot" : {"definition" : " " },
+
+        "onion" : {"definition" : " " },
+
+        "pea" : {"definition" : " " },
+
+        "potato" : {"definition" : " " },
+
+        "coffee" : {"definition" : " " },
+
+        "drink" : {"definition" : " " },
+
+        "juice" : {"definition" : " " },
+
+        "lemonade" : {"definition" : " " },
+
+        "milk" : {"definition" : " " },
+
+        "milkshake" : {"definition" : " " },
+
+        "tea" : {"definition" : " " },
+
+        "water" : {"definition" : " " },
+
+        "bread" : {"definition" : " " },
+
+        "candy" : {"definition" : " " },
+
+        "cheese" : {"definition" : " " },
+
+        "chips" : {"definition" : " " },
+
+        "egg" : {"definition" : " " },
+
+        "chocolate" : {"definition" : " " },
+
+        "fish" : {"definition" : " " },
+
+        "fries" : {"definition" : " " },
+
+        "ice cream" : {"definition" : " " },
+
+        "noodles" : {"definition" : " " },
+
+        "pancake" : {"definition" : " " },
+
+        "pasta" : {"definition" : " " },
+
+        "pie" : {"definition" : " " },
+
+        "rice" : {"definition" : " " },
+
+        "salad" : {"definition" : " " },
+
+        "sandwich" : {"definition" : " " },
+
+        "sauce" : {"definition" : " " },
+
+        "soup" : {"definition" : " " },
+
+        "sugar" : {"definition" : " " },
+
+        "sweet" : {"definition" : " " },
+
+        "grow" : {"definition" : " " },
+
+        "make" : {"definition" : " " },
+
+        "plant" : {"definition" : " " }
+
+    }
+}

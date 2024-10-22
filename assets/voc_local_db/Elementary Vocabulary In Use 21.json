@@ -1,0 +1,73 @@
+{ "words" :
+
+    {
+        "reception" : {"definition" : " " },
+
+        "lift" : {"definition" : " " },
+
+        "key" : {"definition" : " " },
+
+        "luggage" : {"definition" : " " },
+
+        "bill" : {"definition" : " " },
+
+        "form" : {"definition" : " " },
+
+        "bathroom" : {"definition" : " " },
+
+        "shower" : {"definition" : " " },
+
+        "TV" : {"definition" : " " },
+
+        "phone" : {"definition" : " " },
+
+        "mini-bar" : {"definition" : " " },
+
+        "hairdryer" : {"definition" : " " },
+
+        "single room" : {"definition" : " " },
+
+        "double room" : {"definition" : " " },
+
+        "reservation" : {"definition" : " " },
+
+        "room with a view" : {"definition" : " " },
+
+        "Here is your key." : {"definition" : " " },
+
+        "on the first floor" : {"definition" : " " },
+
+        "Take the lift." : {"definition" : " " },
+
+        "over there" : {"definition" : " " },
+
+        "some help with your luggage" : {"definition" : " " },
+
+        "fill in this form" : {"definition" : " " },
+
+        "sign your name here" : {"definition" : " " },
+
+        "check your bill" : {"definition" : " " },
+
+        "check out" : {"definition" : " " },
+
+        "How much is ... bathroom?" : {"definition" : " " },
+
+        "room service" : {"definition" : " " },
+
+        "get an outside line" : {"definition" : " " },
+
+        "the code for" : {"definition" : " " },
+
+        "have breakfast in my room" : {"definition" : " " },
+
+        "have a wake-up call" : {"definition" : " " },
+
+        "What time is ... ?" : {"definition" : " " },
+
+        "change some money" : {"definition" : " " },
+
+        "exchange some money" : {"definition" : " " }
+
+    }
+}

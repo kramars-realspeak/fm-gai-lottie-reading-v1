@@ -1,0 +1,73 @@
+{ "words" :
+
+    {
+        "fridge" : {"definition" : " " },
+
+        "freezer" : {"definition" : " " },
+
+        "microwave" : {"definition" : " " },
+        
+        "cupboard" : {"definition" : " " },
+
+        "shelf" : {"definition" : " " },
+
+        "tap" : {"definition" : " " },
+
+        "worktop" : {"definition" : " " },
+
+        "sink" : {"definition" : " " },
+
+        "bin" : {"definition" : " " },
+
+        "washing machine" : {"definition" : " " },
+
+        "cooker" : {"definition" : " " },
+
+        "dishwasher" : {"definition" : " " },
+
+        "tea towel" : {"definition" : " " },
+
+        "saucepan" : {"definition" : " " },
+
+        "teapot" : {"definition" : " " },
+
+        "coffee maker" : {"definition" : " " },
+
+        "kitchen roll" : {"definition" : " " },
+
+        "washing-up liquid" : {"definition" : " " },
+
+        "frying pan" : {"definition" : " " },
+
+        "cloth" : {"definition" : " " },
+
+        "cup" : {"definition" : " " },
+
+        "bowl" : {"definition" : " " },
+
+        "fork" : {"definition" : " " },
+
+        "knife" : {"definition" : " " },
+
+        "chopsticks" : {"definition" : " " },
+
+        "spoon" : {"definition" : " " },
+
+        "glass" : {"definition" : " " },
+
+        "plate" : {"definition" : " " },
+
+        "mug" : {"definition" : " " },
+
+        "Where can I find ... ?" : {"definition" : " " },
+
+        "Can I help with the ... ?" : {"definition" : " " },
+
+        "dry" : {"definition" : " " },
+
+        "cook" : {"definition" : " " },
+
+        "Where does ... go?" : {"definition" : " " }
+    
+    }
+}

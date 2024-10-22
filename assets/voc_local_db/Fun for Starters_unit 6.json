@@ -1,0 +1,51 @@
+{ "words" :
+
+    {
+        "body" : {"definition" : " " },
+
+        "face" : {"definition" : " " },
+
+        "arm" : {"definition" : " " },
+
+        "ear" : {"definition" : " " },
+
+        "eye" : {"definition" : " " },
+
+        "face" : {"definition" : " " },
+
+        "foot" : {"definition" : " " },
+
+        "hair" : {"definition" : " " },
+
+        "hand" : {"definition" : " " },
+
+        "head" : {"definition" : " " },
+
+        "leg" : {"definition" : " " },
+
+        "mouth" : {"definition" : " " },
+
+        "nose" : {"definition" : " " },
+
+        "tail" : {"definition" : " " },
+
+        "crocodile" : {"definition" : " " },
+
+        "elephant" : {"definition" : " " },
+
+        "giraffe" : {"definition" : " " },
+
+        "horse" : {"definition" : " " },
+
+        "mouse" : {"definition" : " " },
+
+        "zoo" : {"definition" : " " },
+
+        "big" : {"definition" : " " },
+
+        "long" : {"definition" : " " },
+
+        "small" : {"definition" : " " }
+
+    }
+}

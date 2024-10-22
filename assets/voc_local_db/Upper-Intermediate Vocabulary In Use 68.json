@@ -1,0 +1,71 @@
+{ "words" :
+
+    {
+        "first" : {"definition" : " " },
+
+        "firstly" : {"definition" : " " },
+
+        "first of all" : {"definition" : " " },
+
+        "next" : {"definition" : " " },
+
+        "secondly" : {"definition" : " " },
+
+        "thirdly" : {"definition" : " " },
+
+        "finally" : {"definition" : " " },
+
+        "lastly" : {"definition" : " " },
+
+        "turning to" : {"definition" : " " },
+
+        "leaving aside" : {"definition" : " " },
+
+        "in parenthesis" : {"definition" : " " },
+
+        "in summary" : {"definition" : " " },
+
+        "to sum up" : {"definition" : " " },
+
+        "in sum" : {"definition" : " " },
+
+        "in conclusion" : {"definition" : " " },
+
+        "to conclude" : {"definition" : " " },
+
+        "in other words" : {"definition" : " " },
+
+        "that is to say" : {"definition" : " " },
+
+        "for example" : {"definition" : " " },
+
+        "for instance" : {"definition" : " " },
+
+        "say" : {"definition" : " " },
+
+        "briefly" : {"definition" : " " },
+
+        "so to speak" : {"definition" : " " },
+
+        "as it were" : {"definition" : " " },
+
+        "the following" : {"definition" : " " },
+
+        "above" : {"definition" : " " },
+
+        "earlier" : {"definition" : " " },
+
+        "see" : {"definition" : " " },
+
+        "overleaf" : {"definition" : " " },
+
+        "below" : {"definition" : " " },
+
+        "further" : {"definition" : " " },
+
+        "refer you to" : {"definition" : " " },
+
+        "with reference to" : {"definition" : " " }
+
+    }
+}

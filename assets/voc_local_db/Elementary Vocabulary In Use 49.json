@@ -1,0 +1,31 @@
+{ "words" :
+
+    {
+        "walk" : {"definition" : " " },
+
+        "run" : {"definition" : " " },
+
+        "jump" : {"definition" : " " },
+
+        "dance" : {"definition" : " " },
+
+        "swim" : {"definition" : " " },
+
+        "climb" : {"definition" : " " },
+
+        "fall" : {"definition" : " " },
+
+        "go by" : {"definition" : " " },
+
+        "take" : {"definition" : " " },
+
+        "ride" : {"definition" : " " },
+
+        "drive" : {"definition" : " " },
+
+        "flew" : {"definition" : " " },
+
+        "arrive at" : {"definition" : " " }
+
+    }
+}

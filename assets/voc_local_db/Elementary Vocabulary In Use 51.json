@@ -1,0 +1,95 @@
+{ "words" :
+
+    {
+        "days" : {"definition" : " " },
+
+        "year" : {"definition" : " " },
+
+        "leap year" : {"definition" : " " },
+
+        "months" : {"definition" : " " },
+
+        "week" : {"definition" : " " },
+
+        "fortnight" : {"definition" : " " },
+
+        "hours" : {"definition" : " " },
+
+        "minutes" : {"definition" : " " },
+
+        "seconds" : {"definition" : " " },
+
+        "century" : {"definition" : " " },
+
+        "Sunday" : {"definition" : " " },
+
+        "Monday" : {"definition" : " " },
+
+        "Tuesday" : {"definition" : " " },
+
+        "Wednesday" : {"definition" : " " },
+
+        "Thursday" : {"definition" : " " },
+
+        "Friday" : {"definition" : " " },
+
+        "Saturday" : {"definition" : " " },
+
+        "the weekend" : {"definition" : " " },
+
+        "the day before yesterday" : {"definition" : " " },
+
+        "yesterday" : {"definition" : " " },
+
+        "today" : {"definition" : " " },
+
+        "tomorrow" : {"definition" : " " },
+
+        "the day after tomorrow" : {"definition" : " " },
+
+        "morning" : {"definition" : " " },
+
+        "afternoon" : {"definition" : " " },
+
+        "evening" : {"definition" : " " },
+
+        "on" : {"definition" : " " },
+
+        "January" : {"definition" : " " },
+
+        "February" : {"definition" : " " },
+
+        "March" : {"definition" : " " },
+
+        "April" : {"definition" : " " },
+
+        "May" : {"definition" : " " },
+
+        "June" : {"definition" : " " },
+
+        "July" : {"definition" : " " },
+
+        "August" : {"definition" : " " },
+
+        "September" : {"definition" : " " },
+
+        "October" : {"definition" : " " },
+
+        "November" : {"definition" : " " },
+
+        "December" : {"definition" : " " },
+
+        "seasons" : {"definition" : " " },
+
+        "spring" : {"definition" : " " },
+
+        "summer" : {"definition" : " " },
+
+        "autumn" : {"definition" : " " },
+
+        "winter" : {"definition" : " " },
+
+        "in" : {"definition" : " " }
+
+    }
+}

@@ -1,0 +1,59 @@
+{ "words" :
+
+    {
+        "What do you do?" : {"definition" : " " },
+
+        "I work in ..." : {"definition" : " " },
+
+        "What do you do for a living?" : {"definition" : " " },
+
+        "I'm a ..." : {"definition" : " " },
+
+        "What's your job?" : {"definition" : " " },
+
+        "I work for ..." : {"definition" : " " },
+
+        "consultants" : {"definition" : " " },
+
+        "advise" : {"definition" : " " },
+
+        "set up" : {"definition" : " " },
+
+        "handle" : {"definition" : " " },
+
+        "deal with" : {"definition" : " " },
+
+        "responsible for" : {"definition" : " " },
+
+        "in charge of" : {"definition" : " " },
+
+        "products" : {"definition" : " " },
+
+        "produse" : {"definition" : " " },
+
+        "runs" : {"definition" : " " },
+
+        "day-to-day" : {"definition" : " " },
+
+        "admin" : {"definition" : " " },
+
+        "complaints" : {"definition" : " " },
+
+        "complain" : {"definition" : " " },
+
+        "pay" : {"definition" : " " },
+
+        "salary" : {"definition" : " " },
+
+        "income" : {"definition" : " " },
+
+        "earn" : {"definition" : " " },
+
+        "extra time off" : {"definition" : " " },
+
+        "wages" : {"definition" : " " },
+
+        "do overtime" : {"definition" : " " }
+
+    }
+}

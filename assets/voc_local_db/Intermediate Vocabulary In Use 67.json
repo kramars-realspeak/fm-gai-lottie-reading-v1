@@ -1,0 +1,51 @@
+{ "words" :
+
+    {
+        "What do you think of ... ?" : {"definition" : " " },
+
+        "What do you think about...?" : {"definition" : " " },
+
+        "How do you feel about ... ?" : {"definition" : " " },
+
+        "Personally, I think..." : {"definition" : " " },
+
+        "Personally, I feel..." : {"definition" : " " },
+
+        "In my opinion, ..." : {"definition" : " " },
+
+        "My view..." : {"definition" : " " },
+
+        "My feelings..." : {"definition" : " " },
+
+        "I don't think it's ..." : {"definition" : " " },
+
+        "according to" : {"definition" : " " },
+
+        "say" : {"definition" : " " },
+
+        "I agree." : {"definition" : " " },
+
+        "totally agree" : {"definition" : " " },
+
+        "partly agree" : {"definition" : " " },
+
+        "agree with you to a certain extent" : {"definition" : " " },
+
+        "That's true, but..." : {"definition" : " " },
+
+        "I see what you mean." : {"definition" : " " },
+
+        "point" : {"definition" : " " },
+
+        "take your point" : {"definition" : " " },
+
+        "I feel very strongly about..." : {"definition" : " " },
+
+        "Absolutely right." : {"definition" : " " },
+
+        "Absolutely wrong." : {"definition" : " " },
+
+        "I disagree completely." : {"definition" : " " }
+
+    }
+}

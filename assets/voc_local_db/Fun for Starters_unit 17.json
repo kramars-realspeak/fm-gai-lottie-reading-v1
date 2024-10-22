@@ -1,0 +1,49 @@
+{ "words" :
+
+    {
+        "bread" : {"definition" : " " },
+
+        "burger" : {"definition" : " " },
+
+        "cafe" : {"definition" : " " },
+
+        "chicken" : {"definition" : " " },
+
+        "chips" : {"definition" : " " },
+
+        "chocolate" : {"definition" : " " },
+
+        "egg" : {"definition" : " " },
+
+        "fish" : {"definition" : " " },
+
+        "fries" : {"definition" : " " },
+
+        "hot chocolate" : {"definition" : " " },
+
+        "ice cream" : {"definition" : " " },
+
+        "juice" : {"definition" : " " },
+
+        "meatballs" : {"definition" : " " },
+
+        "pie" : {"definition" : " " },
+
+        "rice" : {"definition" : " " },
+
+        "sausage" : {"definition" : " " },
+
+        "water" : {"definition" : " " },
+
+        "add" : {"definition" : " " },
+
+        "make a drink" : {"definition" : " " },
+
+        "try" : {"definition" : " " },
+
+        "today" : {"definition" : " " },
+
+        "What would you like?" : {"definition" : " " }
+
+    }
+}

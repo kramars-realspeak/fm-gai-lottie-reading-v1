@@ -1,0 +1,75 @@
+{ "words" :
+
+    {
+        "registration form" : {"definition" : " " },
+
+        "entry form" : {"definition" : " " },
+
+        "landing form" : {"definition" : " " },
+
+        "visa application form" : {"definition" : " " },
+
+        "enrolment form" : {"definition" : " " },
+
+        "fill in" : {"definition" : " " },
+
+        "date of birth" : {"definition" : " " },
+
+        "place of birth" : {"definition" : " " },
+
+        "country of origin" : {"definition" : " " },
+
+        "marital status" : {"definition" : " " },
+
+        "date od arrival" : {"definition" : " " },
+
+        "date of departure" : {"definition" : " " },
+
+        "signed" : {"definition" : " " },
+
+        "signature" : {"definition" : " " },
+
+        "apply for" : {"definition" : " " },
+
+        "CV" : {"definition" : " " },
+
+        "curriculum vitae" : {"definition" : " " },
+
+        "resume" : {"definition" : " " },
+
+        "personal details" : {"definition" : " " },
+
+        "education" : {"definition" : " " },
+
+        "qualifications" : {"definition" : " " },
+
+        "work experience" : {"definition" : " " },
+
+        "interests" : {"definition" : " " },
+
+        "career aims" : {"definition" : " " },
+
+        "skills" : {"definition" : " " },
+
+        "reference" : {"definition" : " " },
+
+        "require" : {"definition" : " " },
+
+        "personal statement" : {"definition" : " " },
+
+        "tip" : {"definition" : " " },
+
+        "type" : {"definition" : " " },
+
+        "handwriting" : {"definition" : " " },
+
+        "complicated" : {"definition" : " " },
+
+        "relevant" : {"definition" : " " },
+
+        "on your own" : {"definition" : " " },
+
+        "in a team" : {"definition" : " " }
+
+    }
+}

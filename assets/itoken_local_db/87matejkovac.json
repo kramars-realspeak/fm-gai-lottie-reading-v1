@@ -1,0 +1,18 @@
+[
+    {
+    "sports": {
+        "football": ["PSG Paris Football Team", "Lamine Yamal", "Ronaldo"],
+        "hokey": ["HC Nitra"]
+    }, 
+    "social media": {
+        "YouTube" : [ "Czech YouTuber Vitek" ]
+    }, 
+    "vehicles" : {
+        "four wheeler" : [ "four wheeler", "driving alone on a four wheeler" ],
+        "cars" : [ "drifting", "driving", "driving with my dad", "driving in nature with my dad" ]
+    },
+    "food" : {
+        "fastfood" : [ "McDonald's", "pizza", "burger", "hotdog" ]
+    }
+    }
+]

@@ -1,0 +1,93 @@
+{ "words" :
+
+    {
+        "brick" : {"definition" : " " },
+
+        "builder" : {"definition" : " " },
+
+        "builds" : {"definition" : " " },
+
+        "repairs" : {"definition" : " " },
+
+        "carpenter" : {"definition" : " " },
+
+        "wood" : {"definition" : " " },
+
+        "pipes" : {"definition" : " " },
+
+        "plumber" : {"definition" : " " },
+
+        "installs" : {"definition" : " " },
+
+        "socket" : {"definition" : " " },
+
+        "electrician" : {"definition" : " " },
+
+        "mechanic" : {"definition" : " " },
+
+        "repair" : {"definition" : " " },
+
+        "fix" : {"definition" : " " },
+
+        "mend" : {"definition" : " " },
+
+        "architect" : {"definition" : " " },
+
+        "lawyer" : {"definition" : " " },
+
+        "designs" : {"definition" : " " },
+
+        "represents" : {"definition" : " " },
+
+        "plans" : {"definition" : " " },
+
+        "engineer" : {"definition" : " " },
+
+        "accountant" : {"definition" : " " },
+
+        "university lecturer" : {"definition" : " " },
+
+        "lectures" : {"definition" : " " },
+
+        "treat" : {"definition" : " " },
+
+        "GPs" : {"definition" : " " },
+
+        "dentist" : {"definition" : " " },
+
+        "vets" : {"definition" : " " },
+
+        "surgery" : {"definition" : " " },
+
+        "nurses" : {"definition" : " " },
+
+        "surgeons" : {"definition" : " " },
+
+        "operare on" : {"definition" : " " },
+
+        "joined" : {"definition" : " " },
+
+        "soldier" : {"definition" : " " },
+
+        "army" : {"definition" : " " },
+
+        "sailor" : {"definition" : " " },
+
+        "navy" : {"definition" : " " },
+
+        "pilot" : {"definition" : " " },
+
+        "air force" : {"definition" : " " },
+
+        "police officer" : {"definition" : " " },
+
+        "police force" : {"definition" : " " },
+
+        "fireman" : {"definition" : " " },
+
+        "firefighter" : {"definition" : " " },
+
+        "fire brigade" : {"definition" : " " }
+
+    }
+}

@@ -1,0 +1,61 @@
+{ "words" :
+
+    {
+        "balloon" : {"definition" : " " },
+
+        "beach ball" : {"definition" : " " },
+
+        "camera" : {"definition" : " " },
+
+        "clock" : {"definition" : " " },
+
+        "computer mouse" : {"definition" : " " },
+        
+        "crayon" : {"definition" : " " },
+
+        "doll" : {"definition" : " " },
+
+        "drawing" : {"definition" : " " },
+
+        "guitar" : {"definition" : " " },
+
+        "paint" : {"definition" : " " },
+
+        "phone" : {"definition" : " " },
+
+        "picture" : {"definition" : " " },
+
+        "radio" : {"definition" : " " },
+
+        "teddy ball" : {"definition" : " " },
+
+        "tennis ball" : {"definition" : " " },
+
+        "thing" : {"definition" : " " },
+
+        "watch" : {"definition" : " " },
+
+        "sport" : {"definition" : " " },
+
+        "leisure" : {"definition" : " " },
+
+        "board game" : {"definition" : " " },
+
+        "drawing" : {"definition" : " " },
+
+        "music" : {"definition" : " " },
+
+        "skateboard" : {"definition" : " " },
+
+        "tablet" : {"definition" : " " },
+
+        "fish" : {"definition" : " " },
+
+        "Pardon?" : {"definition" : " " },
+
+        "Sorry?" : {"definition" : " " },
+
+        "Whose is this?" : {"definition" : " " }
+
+    }
+}

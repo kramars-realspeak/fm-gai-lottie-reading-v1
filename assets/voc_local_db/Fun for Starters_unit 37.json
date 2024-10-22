@@ -1,0 +1,41 @@
+{ "words" :
+
+    {
+        "badminton" : {"definition" : " " },
+
+        "baseball" : {"definition" : " " },
+
+        "basketball" : {"definition" : " " },
+
+        "hockey" : {"definition" : " " },
+
+        "table tennis" : {"definition" : " " },
+
+        "tennis" : {"definition" : " " },
+
+        "bounce" : {"definition" : " " },
+
+        "catch" : {"definition" : " " },
+
+        "go fishing" : {"definition" : " " },
+
+        "go swimming" : {"definition" : " " },
+
+        "hit" : {"definition" : " " },
+
+        "kick" : {"definition" : " " },
+
+        "at the beach" : {"definition" : " " },
+
+        "on teevision" : {"definition" : " " },
+
+        "Cool!" : {"definition" : " " },
+
+        "Great!" : {"definition" : " " },
+
+        "No, thanks!" : {"definition" : " " },
+
+        "Yes, please!" : {"definition" : " " }
+        
+    }
+}

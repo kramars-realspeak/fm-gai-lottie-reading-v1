@@ -1,0 +1,35 @@
+{ "words" :
+
+    {
+        "lorry" : {"definition" : " " },
+
+        "driver" : {"definition" : " " },
+
+        "police car" : {"definition" : " " },
+
+        "police officer" : {"definition" : " " },
+
+        "come back" : {"definition" : " " },
+
+        "get lost" : {"definition" : " " },
+
+        "look for" : {"definition" : " " },
+
+        "lose" : {"definition" : " " },
+
+        "must" : {"definition" : " " },
+
+        "missing" : {"definition" : " " },
+
+        "again" : {"definition" : " " },
+
+        "another" : {"definition" : " " },
+
+        "someone" : {"definition" : " " },
+
+        "something" : {"definition" : " " },
+
+        "What's the matter?" : {"definition" : " " }
+        
+    }
+}

@@ -1,0 +1,37 @@
+{ "words" :
+
+    {
+        "bathroom" : {"definition" : " " },
+
+        "bedroom" : {"definition" : " " },
+
+        "bookcase" : {"definition" : " " },
+
+        "desk" : {"definition" : " " },
+
+        "dining room" : {"definition" : " " },
+
+        "hall" : {"definition" : " " },
+
+        "home" : {"definition" : " " },
+
+        "kitchen" : {"definition" : " " },
+
+        "living room" : {"definition" : " " },
+
+        "mat" : {"definition" : " " },
+
+        "mirror" : {"definition" : " " },
+
+        "room" : {"definition" : " " },
+
+        "table leg" : {"definition" : " " },
+
+        "television" : {"definition" : " " },
+
+        "like" : {"definition" : " " },
+
+        "Where's your home?" : {"definition" : " " }
+        
+    }
+}

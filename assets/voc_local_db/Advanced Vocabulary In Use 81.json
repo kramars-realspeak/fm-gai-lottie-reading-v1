@@ -1,0 +1,89 @@
+{ "words" :
+
+    {
+        "scribble" : {"definition" : " " },
+
+        "chatty" : {"definition" : " " },
+
+        "make a note of" : {"definition" : " " },
+
+        "jot down" : {"definition" : " " },
+
+        "doodling" : {"definition" : " " },
+
+        "copy out" : {"definition" : " " },
+
+        "drafting" : {"definition" : " " },
+
+        "draft" : {"definition" : " " },
+
+        "writing up" : {"definition" : " " },
+
+        "manuscript" : {"definition" : " " },
+
+        "touch-type" : {"definition" : " " },
+
+        "typescript" : {"definition" : " " },
+
+        "run off" : {"definition" : " " },
+
+        "format" : {"definition" : " " },
+
+        "cut and paste" : {"definition" : " " },
+
+        "copy and paste" : {"definition" : " " },
+
+        "characters" : {"definition" : " " },
+
+        "in bold" : {"definition" : " " },
+
+        "italicised" : {"definition" : " " },
+
+        "in italics" : {"definition" : " " },
+
+        "shaded box" : {"definition" : " " },
+
+        "font" : {"definition" : " " },
+
+        "double inverted commas" : {"definition" : " " },
+
+        "double quotation marks" : {"definition" : " " },
+        
+        "single quotes" : {"definition" : " " },
+
+        "is indented" : {"definition" : " " },
+
+        "asterisks" : {"definition" : " " },
+
+        "bullet" : {"definition" : " " },
+
+        "bracket" : {"definition" : " " },
+
+        "round" : {"definition" : " " },
+
+        "diamond" : {"definition" : " " },
+
+        "angle" : {"definition" : " " },
+
+        "square" : {"definition" : " " },
+
+        "curly" : {"definition" : " " },
+        
+        "capitals" : {"definition" : " " },
+
+        "upper case" : {"definition" : " " },
+
+        "small letters" : {"definition" : " " },
+
+        "lower case" : {"definition" : " " },
+
+        "block capitals" : {"definition" : " " },
+
+        "superscript" : {"definition" : " " },
+
+        "an introduction" : {"definition" : " " },
+
+        "some definitions" : {"definition" : " " }
+
+    }
+}

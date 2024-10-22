@@ -1,0 +1,89 @@
+{ "words" :
+
+    {
+        "balcony" : {"definition" : " " },
+
+        "basement" : {"definition" : " " },
+
+        "bookcase" : {"definition" : " " },
+
+        "chimney" : {"definition" : " " },
+
+        "flower" : {"definition" : " " },
+
+        "front door" : {"definition" : " " },
+
+        "garden" : {"definition" : " " },
+
+        "grass" : {"definition" : " " },
+
+        "hall" : {"definition" : " " },
+
+        "home" : {"definition" : " " },
+
+        "leaf" : {"definition" : " " },
+
+        "mat" : {"definition" : " " },
+
+        "foof" : {"definition" : " " },
+
+        "stairs" : {"definition" : " " },
+
+        "wall" : {"definition" : " " },
+
+        "window" : {"definition" : " " },
+
+        "leisure" : {"definition" : " " },
+
+        "cameraman" : {"definition" : " " },
+
+        "film" : {"definition" : " " },
+
+        "movie" : {"definition" : " " },
+
+        "video" : {"definition" : " " },
+
+        "have a wash" : {"definition" : " " },
+
+        "brave" : {"definition" : " " },
+
+        "closed" : {"definition" : " " },
+
+        "exciting" : {"definition" : " " },
+
+        "famous" : {"definition" : " " },
+
+        "fun" : {"definition" : " " },
+
+        "open" : {"definition" : " " },
+
+        "downstairs" : {"definition" : " " },
+
+        "upstairs" : {"definition" : " " },
+
+        "above" : {"definition" : " " },
+
+        "below" : {"definition" : " " },
+
+        "in front of"  : {"definition" : " " },
+        
+        "inside" : {"definition" : " " },
+
+        "on" : {"definition" : " " },
+
+        "outside" : {"definition" : " " },
+
+        "Come on!" : {"definition" : " " },
+
+        "Hi!" : {"definition" : " " },
+
+        "Hooray!" : {"definition" : " " },
+
+        "How exciting!" : {"definition" : " " },
+
+        "Really?" : {"definition" : " " },
+
+        "Sorry." : {"definition" : " " }
+
+    }
+}

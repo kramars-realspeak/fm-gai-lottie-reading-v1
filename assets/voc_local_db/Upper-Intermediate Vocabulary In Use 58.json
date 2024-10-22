@@ -1,0 +1,55 @@
+{ "words" :
+
+    {
+        "move" : {"definition" : " " },
+
+        "moved" : {"definition" : " " },
+
+        "travel" : {"definition" : " " },
+
+        "drive" : {"definition" : " " },
+
+        "sail" : {"definition" : " " },
+
+        "flow" : {"definition" : " " },
+
+        "run" : {"definition" : " " },
+
+        "swerved" : {"definition" : " " },
+
+        "drifted" : {"definition" : " " },
+
+        "fluttered" : {"definition" : " " },
+
+        "stirred" : {"definition" : " " },
+
+        "swayed" : {"definition" : " " },
+
+        "crawling along" : {"definition" : " " },
+
+        "dawdling" : {"definition" : " " },
+
+        "tore along" : {"definition" : " " },
+
+        "shot past" : {"definition" : " " },
+
+        "hurrying" : {"definition" : " " },
+
+        "rushing" : {"definition" : " " },
+
+        "creeping along" : {"definition" : " " },
+
+        "plodding" : {"definition" : " " },
+
+        "cruising" : {"definition" : " " },
+
+        "speed" : {"definition" : " " },
+
+        "rate" : {"definition" : " " },
+
+        "velocity" : {"definition" : " " },
+
+        "at a speed" : {"definition" : " " }
+        
+    }
+}

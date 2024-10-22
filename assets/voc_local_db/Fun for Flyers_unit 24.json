@@ -1,0 +1,79 @@
+{ "words" :
+
+    {
+        "airport" : {"definition" : " " },
+
+        "boat" : {"definition" : " " },
+
+        "bus" : {"definition" : " " },
+
+        "driver" : {"definition" : " " },
+
+        "helicopter" : {"definition" : " " },
+
+        "hot air balloon" : {"definition" : " " },
+
+        "motorbike" : {"definition" : " " },
+
+        "motorway" : {"definition" : " " },
+
+        "pilot" : {"definition" : " " },
+
+        "plane" : {"definition" : " " },
+
+        "platform" : {"definition" : " " },
+
+        "racing car" : {"definition" : " " },
+
+        "station" : {"definition" : " " },
+
+        "taxi" : {"definition" : " " },
+
+        "traffic" : {"definition" : " " },
+
+        "train" : {"definition" : " " },
+
+        "tyre" : {"definition" : " " },
+
+        "wheel" : {"definition" : " " },
+
+        "adventure" : {"definition" : " " },
+
+        "money" : {"definition" : " " },
+
+        "be in danger" : {"definition" : " " },
+
+        "catch a train" : {"definition" : " " },
+
+        "cross" : {"definition" : " " },
+
+        "cycle" : {"definition" : " " },
+
+        "drop" : {"definition" : " " },
+
+        "explore space" : {"definition" : " " },
+
+        "get to a place" : {"definition" : " " },
+
+        "go by bike" : {"definition" : " " },
+
+        "go for a ride" : {"definition" : " " },
+
+        "go somewhere on foot" : {"definition" : " " },
+
+        "have problems" : {"definition" : " " },
+
+        "wait" : {"definition" : " " },
+
+        "boring" : {"definition" : " " },
+
+        "quick" : {"definition" : " " },
+
+        "slow" : {"definition" : " " },
+
+        "everywhere" : {"definition" : " " },
+
+        "along" : {"definition" : " " }
+
+    }
+}

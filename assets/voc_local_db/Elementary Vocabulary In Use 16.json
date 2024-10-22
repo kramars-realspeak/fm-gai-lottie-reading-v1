@@ -1,0 +1,65 @@
+{ "words" :
+
+    {
+        "letter" : {"definition" : " " },
+        
+        "address": {"definition" : " " },
+
+        "date" : {"definition" : " " },
+
+        "envelope" : {"definition" : " " },
+
+        "letter box" : {"definition" : " " },
+
+        "stamp" : {"definition" : " " },
+
+        "post" : {"definition" : " " },
+
+        "computer" : {"definition" : " " },
+
+        "screen" : {"definition" : " " },
+
+        "keyboard" : {"definition" : " " },
+
+        "mouse" : {"definition" : " " },
+
+        "laptop" : {"definition" : " " },
+
+        "memory stick" : {"definition" : " " },
+
+        "emails" : {"definition" : " " },
+
+        "email address" : {"definition" : " " },
+
+        "at dot" : {"definition" : " " },
+
+        "mobile devise" : {"definition" : " " },
+
+        "mobile" : {"definition" : " " },
+
+        "telephone" : {"definition" : " " },
+
+        "phone box" : {"definition" : " " },
+
+        "make phone calls" : {"definition" : " " },
+
+        "phone number" : {"definition" : " " },
+
+        "voicemail" : {"definition" : " " },
+
+        "text" : {"definition" : " " },
+
+        "send" : {"definition" : " " },
+
+        "It's here." : {"definition" : " " },
+
+        "speak to" : {"definition" : " " },
+
+        "take message" : {"definition" : " " },
+
+        "tell him I called" : {"definition" : " " },
+
+        "call back" : {"definition" : " " }
+
+    }
+}

@@ -1,0 +1,69 @@
+{ "words" :
+
+    {
+        "football" : {"definition" : " " },
+
+        "rugby" : {"definition" : " " },
+
+        "American football" : {"definition" : " " },
+
+        "basketball" : {"definition" : " " },
+
+        "badminton" : {"definition" : " " },
+
+        "baseball" : {"definition" : " " },
+
+        "tennis" : {"definition" : " " },
+
+        "volleyball" : {"definition" : " " },
+
+        "table tennis" : {"definition" : " " },
+
+        "swimming" : {"definition" : " " },
+
+        "running" : {"definition" : " " },
+
+        "sailing" : {"definition" : " " },
+
+        "motor racing" : {"definition" : " " },
+
+        "horse racing" : {"definition" : " " },
+
+        "judo" : {"definition" : " " },
+
+        "karate" : {"definition" : " " },
+
+        "snowboarding" : {"definition" : " " },
+
+        "skiing" : {"definition" : " " },
+
+        "kayaking" : {"definition" : " " },
+
+        "go" : {"definition" : " " },
+
+        "went" : {"definition" : " " },
+
+        "do" : {"definition" : " " },
+
+        "basketball court" : {"definition" : " " },
+
+        "rugby pitch" : {"definition" : " " },
+
+        "swimming pool" : {"definition" : " " },
+
+        "sports centre" : {"definition" : " " },
+
+        "Do you do any sports?" : {"definition" : " " },
+
+        "I go ..." : {"definition" : " " },
+
+        "Do you play ... ?" : {"definition" : " " },
+
+        "I play ..." : {"definition" : " " },
+
+        "What's your favourite sport?" : {"definition" : " " },
+
+        "I like ... best." : {"definition" : " " }
+
+    }
+}

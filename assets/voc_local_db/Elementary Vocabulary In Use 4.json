@@ -1,0 +1,91 @@
+{ "words" :
+
+    {
+        "coat" : {"definition" : " " },
+
+        "jacket" : {"definition" : " " },
+
+        "scarf" : {"definition" : " " },
+
+        "gloves" : {"definition" : " " },
+
+        "shoes" : {"definition" : " " },
+
+        "trainers" : {"definition" : " " },
+
+        "boots" : {"definition" : " " },
+
+        "suit" : {"definition" : " " },
+
+        "hat" : {"definition" : " " },
+
+        "skirt" : {"definition" : " " },
+
+        "tie" : {"definition" : " " },
+
+        "socks" : {"definition" : " " },
+
+        "T-shirt" : {"definition" : " " },
+
+        "watch" : {"definition" : " " },
+
+        "shirt" : {"definition" : " " },
+
+        "dress" : {"definition" : " " },
+
+        "ring" : {"definition" : " " },
+
+        "belt" : {"definition" : " " },
+
+        "sweater" : {"definition" : " " },
+
+        "jumper" : {"definition" : " " },
+
+        "trousers" : {"definition" : " " },
+
+        "jeans" : {"definition" : " " },
+
+        "shorts" : {"definition" : " " },
+
+        "tights" : {"definition" : " " },
+
+        "glasses" : {"definition" : " " },
+
+        "pyjamas" : {"definition" : " " },
+
+        "sunglasses" : {"definition" : " " },
+
+        "is" : {"definition" : " " },
+
+        "are" : {"definition" : " " },
+
+        "a pair of" : {"definition" : " " },
+
+        "wear" : {"definition" : " " },
+
+        "carry" : {"definition" : " " },
+
+        "is wearing" : {"definition" : " " },
+
+        "carrying handbag" : {"definition" : " " },
+
+        "has got on" : {"definition" : " " },
+
+        "carry bag" : {"definition" : " " },
+
+        "carry umbrella" : {"definition" : " " },
+
+        "get dressed" : {"definition" : " " },
+
+        "put on" : {"definition" : " " },
+
+        "get undressed" : {"definition" : " " },
+
+        "take off" : {"definition" : " " },
+
+        "put clothes on" : {"definition" : " " },
+
+        "take clothes off" : {"definition" : " " }
+
+    }
+}

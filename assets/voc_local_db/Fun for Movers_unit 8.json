@@ -1,0 +1,45 @@
+{ "words" :
+
+    {
+        "elephant" : {"definition" : " " },
+
+        "fur" : {"definition" : " " },
+
+        "giraffe" : {"definition" : " " },
+
+        "hippo" : {"definition" : " " },
+
+        "snake" : {"definition" : " " },
+
+        "ice" : {"definition" : " " },
+
+        "kind of weather" : {"definition" : " " },
+
+        "part of the world" : {"definition" : " " },
+
+        "get cold" : {"definition" : " " },
+
+        "go to bed " : {"definition" : " " },
+
+        "sleep" : {"definition" : " " },
+
+        "wake up" : {"definition" : " " },
+
+        "clever" : {"definition" : " " },
+
+        "dry" : {"definition" : " " },
+
+        "naughty" : {"definition" : " " },
+
+        "strong" : {"definition" : " " },
+
+        "tall" : {"definition" : " " },
+
+        "wet" : {"definition" : " " },
+        
+        "today" : {"definition" : " " },
+
+        "yesterday" : {"definition" : " " }
+
+    }
+}

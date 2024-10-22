@@ -1,0 +1,39 @@
+{ "words" :
+
+    {
+        "baby" : {"definition" : " " },
+
+        "people" : {"definition" : " " },
+
+        "person" : {"definition" : " " },
+
+        "best friend" : {"definition" : " " },
+
+        "boy" : {"definition" : " " },
+
+        "children" : {"definition" : " " },
+
+        "girl" : {"definition" : " " },
+
+        "kid" : {"definition" : " " },
+
+        "man" : {"definition" : " " },
+
+        "men" : {"definition" : " " },
+
+        "woman" : {"definition" : " " },
+
+        "women" : {"definition" : " " },
+
+        "conjunctions" : {"definition" : " " },
+
+        "or" : {"definition" : " " },
+
+        "expressions" : {"definition" : " " },
+
+        "Good!" : {"definition" : " " },
+
+        "Great!" : {"definition" : " " }
+        
+    }
+}

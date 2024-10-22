@@ -1,0 +1,81 @@
+{ "words" :
+
+    {
+        "vehicle" : {"definition" : " " },
+
+        "bus" : {"definition" : " " },
+
+        "coach" : {"definition" : " " },
+
+        "lorry" : {"definition" : " " },
+
+        "truck" : {"definition" : " " },
+
+        "van" : {"definition" : " " },
+
+        "motorbike" : {"definition" : " " },
+
+        "bicycle" : {"definition" : " " },
+
+        "pilot" : {"definition" : " " },
+
+        "cyclist" : {"definition" : " " },
+
+        "bus fare" : {"definition" : " " },
+
+        "train fare" : {"definition" : " " },
+
+        "airfare" : {"definition" : " " },
+
+        "get by" : {"definition" : " " },
+
+        "go by" : {"definition" : " " },
+
+        "catch by" : {"definition" : " " },
+
+        "fly" : {"definition" : " " },
+
+        "ride a bike" : {"definition" : " " },
+
+        "get on" : {"definition" : " " },
+
+        "get off" : {"definition" : " " },
+
+        "get in" : {"definition" : " " },
+
+        "get out" : {"definition" : " " },
+
+        "taxi rank" : {"definition" : " " },
+
+        "flight" : {"definition" : " " },
+
+        "platform" : {"definition" : " " },
+
+        "journey" : {"definition" : " " },
+
+        "bus stop" : {"definition" : " " },
+
+        "go by bus" : {"definition" : " " },
+
+        "convenient" : {"definition" : " " },
+
+        "away" : {"definition" : " " },
+
+        "wait in a queue" : {"definition" : " " },
+
+        "complaining about" : {"definition" : " " },
+
+        "round the corner" : {"definition" : " " },
+
+        "run" : {"definition" : " " },
+
+        "reliable" : {"definition" : " " },
+
+        "return" : {"definition" : " " },
+
+        "season ticket" : {"definition" : " " },
+
+        "complaint miss" : {"definition" : " " }
+
+    }
+}

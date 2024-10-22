@@ -1,0 +1,77 @@
+{ "words" :
+
+    {
+        "primary care" : {"definition" : " " },
+
+        "physicians" : {"definition" : " " },
+
+        "home visit" : {"definition" : " " },
+
+        "locum" : {"definition" : " " },
+
+        "acute condition" : {"definition" : " " },
+
+        "chronic" : {"definition" : " " },
+
+        "secondary care" : {"definition" : " " },
+
+        "referred to" : {"definition" : " " },
+
+        "organ" : {"definition" : " " },
+
+        "ophtalmologists" : {"definition" : " " },
+
+        "gynaelogists" : {"definition" : " " },
+
+        "paediatricians" : {"definition" : " " },
+
+        "dermatologists" : {"definition" : " " },
+
+        "obstetricians" : {"definition" : " " },
+
+        "psychiatrists" : {"definition" : " " },
+
+        "cardiolodists" : {"definition" : " " },
+
+        "anaesthetists" : {"definition" : " " },
+
+        "anaesthesia" : {"definition" : " " },
+
+        "alternative medice" : {"definition" : " " },
+
+        "complementary medicine" : {"definition" : " " },
+
+        "acupuncturists" : {"definition" : " " },
+
+        "chiropractors" : {"definition" : " " },
+
+        "homeopathic doctors" : {"definition" : " " },
+
+        "aromatherapists" : {"definition" : " " },
+
+        "healthcare" : {"definition" : " " },
+
+        "national insurance" : {"definition" : " " },
+
+        "National Health Service" : {"definition" : " " },
+
+        "family doctor" : {"definition" : " " },
+
+        "GP" : {"definition" : " " },
+
+        "surgery" : {"definition" : " " },
+
+        "clinic" : {"definition" : " " },
+
+        "prescription charge" : {"definition" : " " },
+
+        "go private" : {"definition" : " " },
+
+        "insurance schemes" : {"definition" : " " },
+
+        "general practitioner" : {"definition" : " " },
+
+        "the NHS" : {"definition" : " " }
+
+    }
+}

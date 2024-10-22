@@ -1,0 +1,85 @@
+{ "words" :
+
+    {
+        "pineapple" : {"definition" : " " },
+
+        "peach" : {"definition" : " " },
+
+        "strawberry" : {"definition" : " " },
+
+        "bunch of grapes" : {"definition" : " " },
+
+        "olives" : {"definition" : " " },
+
+        "coconut" : {"definition" : " " },
+
+        "lemon" : {"definition" : " " },
+
+        "melon" : {"definition" : " " },
+
+        "pear" : {"definition" : " " },
+
+        "beans" : {"definition" : " " },
+
+        "peas" : {"definition" : " " },
+
+        "onion" : {"definition" : " " },
+
+        "garlic" : {"definition" : " " },
+
+        "carrot" : {"definition" : " " },
+
+        "mushrooms" : {"definition" : " " },
+
+        "spinach" : {"definition" : " " },
+
+        "broccoli" : {"definition" : " " },
+
+        "cabbage" : {"definition" : " " },
+
+        "pepper" : {"definition" : " " },
+
+        "courgette" : {"definition" : " " },
+
+        "aubergine" : {"definition" : " " },
+
+        "salad" : {"definition" : " " },
+
+        "lettuce" : {"definition" : " " },
+
+        "tomato" : {"definition" : " " },
+
+        "cucumber" : {"definition" : " " },
+
+        "salad dressing" : {"definition" : " " },
+
+        "oil" : {"definition" : " " },
+
+        "vinegar" : {"definition" : " " },
+
+        "calf" : {"definition" : " " },
+
+        "lamb" : {"definition" : " " },
+
+        "chicken" : {"definition" : " " },
+
+        "hen" : {"definition" : " " },
+
+        "pork" : {"definition" : " " },
+
+        "veal" : {"definition" : " " },
+
+        "beef" : {"definition" : " " },
+
+        "vegetarian" : {"definition" : " " },
+
+        "salmon" : {"definition" : " " },
+
+        "prawns" : {"definition" : " " },
+
+        "mussels" : {"definition" : " " },
+
+        "crab" : {"definition" : " " }
+
+    }
+}

@@ -1,0 +1,59 @@
+{ "words" :
+
+    {
+        "apples" : {"definition" : " " },
+
+        "shoes" : {"definition" : " " },
+
+        "plates" : {"definition" : " " },
+
+        "sugar" : {"definition" : " " },
+
+        "money" : {"definition" : " " },
+
+        "luggage" : {"definition" : " " },
+
+        "traffic" : {"definition" : " " },
+
+        "furniture" : {"definition" : " " },
+
+        "advice" : {"definition" : " " },
+
+        "information" : {"definition" : " " },
+
+        "news" : {"definition" : " " },
+
+        "weather" : {"definition" : " " },
+
+        "accommodation" : {"definition" : " " },
+
+        "air" : {"definition" : " " },
+
+        "work" : {"definition" : " " },
+
+        "travel" : {"definition" : " " },
+
+        "rice" : {"definition" : " " },
+
+        "spaghetti" : {"definition" : " " },
+
+        "butter" : {"definition" : " " },
+
+        "bread" : {"definition" : " " },
+
+        "milk" : {"definition" : " " },
+
+        "water" : {"definition" : " " },
+
+        "tea" : {"definition" : " " },
+
+        "coffee" : {"definition" : " " },
+
+        "two loaves" : {"definition" : " " },
+
+        "three litres" : {"definition" : " " },
+
+        "a kilo" : {"definition" : " " }
+
+    }
+}

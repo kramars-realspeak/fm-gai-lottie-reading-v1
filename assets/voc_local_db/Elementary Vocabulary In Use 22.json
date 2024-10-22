@@ -1,0 +1,53 @@
+{ "words" :
+
+    {
+        "cafe" : {"definition" : " " },
+
+        "have a cup of tea" : {"definition" : " " },
+
+        "coffee" : {"definition" : " " },
+
+        "snack" : {"definition" : " " },
+
+        "meals" : {"definition" : " " },
+
+        "restaurant" : {"definition" : " " },
+
+        "bar" : {"definition" : " " },
+
+        "pub" : {"definition" : " " },
+        
+        "alcohol" : {"definition" : " " },
+
+        "soft drinks" : {"definition" : " " },
+
+        "fast food restaurant" : {"definition" : " " },
+
+        "take-away" : {"definition" : " " },
+
+        "ready to order" : {"definition" : " " },
+
+        "I'd like ... " : {"definition" : " " },
+
+        "Would you like ... ?" : {"definition" : " " },
+
+        "How would you like ... ?" : {"definition" : " " },
+
+        "rare" : {"definition" : " " },
+
+        "medium" : {"definition" : " " },
+
+        "well-done" : {"definition" : " " },
+
+        "What would you like to drink?" : {"definition" : " " },
+
+        "I'll have ..." : {"definition" : " " },
+
+        "Is everything all right?" : {"definition" : " " },
+
+        "delicious" : {"definition" : " " },
+
+        "Could I have the bill?" : {"definition" : " " }
+
+    }
+}

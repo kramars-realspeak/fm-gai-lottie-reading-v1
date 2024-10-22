@@ -1,0 +1,35 @@
+{ "words" :
+
+    {
+        "and" : {"definition" : " " },
+
+        "but" : {"definition" : " " },
+
+        "or" : {"definition" : " " },
+        
+        "because" : {"definition" : " " },
+
+        "so" : {"definition" : " " },
+
+        "when" : {"definition" : " " },
+
+        "before" : {"definition" : " " },
+
+        "after" : {"definition" : " " },
+
+        "if" : {"definition" : " " },
+
+        "only" : {"definition" : " " },
+
+        "like" : {"definition" : " " },
+
+        "than" : {"definition" : " " },
+
+        "also" : {"definition" : " " },
+
+        "too" : {"definition" : " " },
+
+        "as well" : {"definition" : " " }
+
+    }
+}

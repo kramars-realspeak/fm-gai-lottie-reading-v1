@@ -1,0 +1,49 @@
+{ "words" :
+
+    {
+        "address" : {"definition" : " " },
+
+        "apartment" : {"definition" : " " },
+
+        "bethroom" : {"definition" : " " },
+
+        "bedroom" : {"definition" : " " },
+
+        "dining room" : {"definition" : " " },
+
+        "flat" : {"definition" : " " },
+
+        "ground floor" : {"definition" : " " },
+
+        "house" : {"definition" : " " },
+
+        "kitchen" : {"definition" : " " },
+
+        "lift" : {"definition" : " " },
+
+        "living room" : {"definition" : " " },
+
+        "room" : {"definition" : " " },
+
+        "circle" : {"definition" : " " },
+
+        "pentagon" : {"definition" : " " },
+
+        "rectangle" : {"definition" : " " },
+
+        "square" : {"definition" : " " },
+
+        "triangle" : {"definition" : " " },
+
+        "dark" : {"definition" : " " },
+
+        "light" : {"definition" : " " },
+
+        "downstairs" : {"definition" : " " },
+
+        "upstairs" : {"definition" : " " },
+
+        "near" : {"definition" : " " }
+
+    }
+}

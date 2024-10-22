@@ -1,0 +1,59 @@
+{ "words" :
+
+    {
+        "doctor" : {"definition" : " " },
+
+        "teacher" : {"definition" : " " },
+
+        "nurse" : {"definition" : " " },
+
+        "mechanic" : {"definition" : " " },
+
+        "secretary" : {"definition" : " " },
+
+        "shop assistant" : {"definition" : " " },
+
+        "hairdresser" : {"definition" : " " },
+
+        "engineer" : {"definition" : " " },
+
+        "farmer" : {"definition" : " " },
+
+        "police officer" : {"definition" : " " },
+
+        "traffic warden" : {"definition" : " " },
+
+        "librarian" : {"definition" : " " },
+
+        "bank clerk" : {"definition" : " " },
+
+        "jop" : {"definition" : " " },
+
+        "waiter" : {"definition" : " " },
+
+        "restaurant" : {"definition" : " " },
+
+        "do" : {"definition" : " " },
+
+        "taxi driver" : {"definition" : " " },
+
+        "work" : {"definition" : " " },
+        
+        "office" : {"definition" : " " },
+
+        "factory" : {"definition" : " " },
+
+        "shop" : {"definition" : " " },
+
+        "beauty salon" : {"definition" : " " },
+
+        "hairdresser" : {"definition" : " " },
+
+        "hospital" : {"definition" : " " },
+
+        "at" : {"definition" : " " },
+
+        "from" : {"definition" : " " }
+
+    }
+}

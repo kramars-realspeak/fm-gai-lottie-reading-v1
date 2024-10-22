@@ -1,0 +1,26 @@
+[
+    {
+    "food": {
+        "favourite food": ["sweets", "pancakes", "tiramisu favourite food"]
+    },
+    "extracurricular activites": {
+        "indoor rock climbing": ["climbing indoors"]
+    },
+    "movies": {
+        "dinosaurs": [ "jurrasic world animated version" ],
+        "sponge bob": [ "sponge bob movie" ], 
+        "cooking TV shows" : [ "popular TV show bez servitky" ]
+    }, 
+    "play": {
+        "building bunkers": [ "outdoors outside, building different kinds of structures outside" ], 
+        "building tree houses" : [ "a river running behind the house", "building a bunker over there" ], 
+        "loves cooking" : [ "helping mum with cooking" ]
+    }, 
+    "sport" : {
+        "ice skating" : [ "ice skating in ZM in the winter", "freestyle just with family"], 
+        "skates" : [ "skating with friends", "in the village outdoors" ],
+        "riding a bike" : [ "with friends outdoors in the village" ], 
+        "scooter" : [ "scooter with friends" ]
+    }
+}
+]

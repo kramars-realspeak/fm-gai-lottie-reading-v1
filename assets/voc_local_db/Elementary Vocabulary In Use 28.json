@@ -1,0 +1,61 @@
+{ "words" :
+
+    {
+        "sun" : {"definition" : " " },
+
+        "rain" : {"definition" : " " },
+
+        "cloud" : {"definition" : " " },
+
+        "snow" : {"definition" : " " },
+
+        "fog" : {"definition" : " " },
+
+        "wind" : {"definition" : " " },
+
+        "thunder" : {"definition" : " " },
+
+        "lightning" : {"definition" : " " },
+
+        "sunny" : {"definition" : " " },
+
+        "rainy" : {"definition" : " " },
+
+        "windy" : {"definition" : " " },
+
+        "couldy" : {"definition" : " " },
+
+        "snowy" : {"definition" : " " },
+
+        "foggy" : {"definition" : " " },
+
+        "thundery" : {"definition" : " " },
+
+        "hot" : {"definition" : " " },
+
+        "cold" : {"definition" : " " },
+
+        "minus" : {"definition" : " " },
+
+        "degrees" : {"definition" : " " },
+
+        "wet" : {"definition" : " " },
+
+        "dry" : {"definition" : " " },
+
+        "hurricane" : {"definition" : " " },
+
+        "storm" : {"definition" : " " },
+
+        "thunderstorm" : {"definition" : " " },
+
+        "It's a sunny day." : {"definition" : " " },
+
+        "It's cloudy." : {"definition" : " " },
+
+        "It's foggy." : {"definition" : " " },
+
+        "What's the weather like in your country in June?" : {"definition" : " " }
+
+    }
+}

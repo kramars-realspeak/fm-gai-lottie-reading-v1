@@ -1,0 +1,45 @@
+{ "words" :
+
+    {
+        "and" : {"definition" : " " },
+
+        "also" : {"definition" : " " },
+
+        "as well" : {"definition" : " " },
+
+        "too" : {"definition" : " " },
+
+        "as well as" : {"definition" : " " },
+
+        "what's more" : {"definition" : " " },
+
+        "in addition" : {"definition" : " " },
+
+        "in addition to" : {"definition" : " " },
+
+        "besides" : {"definition" : " " },
+
+        "still" : {"definition" : " " },
+
+        "however" : {"definition" : " " },
+
+        "yet" : {"definition" : " " },
+
+        "though" : {"definition" : " " },
+
+        "while" : {"definition" : " " },
+
+        "whereas" : {"definition" : " " },
+
+        "although" : {"definition" : " " },
+
+        "even though" : {"definition" : " " },
+
+        "despite" : {"definition" : " " },
+
+        "despite the fact that" : {"definition" : " " },
+        
+        "in spite of" : {"definition" : " " }
+
+    }
+}

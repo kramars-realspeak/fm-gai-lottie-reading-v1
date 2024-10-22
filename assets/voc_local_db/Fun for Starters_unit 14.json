@@ -1,0 +1,29 @@
+{ "words" :
+
+    {
+        "clean" : {"definition" : " " },
+
+        "dirty" : {"definition" : " " },
+
+        "happy" : {"definition" : " " },
+
+        "long" : {"definition" : " " },
+
+        "new" : {"definition" : " " },
+
+        "old" : {"definition" : " " },
+
+        "sad" : {"definition" : " " },
+
+        "short" : {"definition" : " " },
+
+        "young" : {"definition" : " " },
+
+        "smile" : {"definition" : " " },
+
+        "What's this?" : {"definition" : " " },
+
+        "What are these?" : {"definition" : " " }
+
+    }
+}

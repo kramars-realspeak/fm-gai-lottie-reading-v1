@@ -1,0 +1,37 @@
+{ "words" :
+
+    {
+        "animals" : {"definition" : " " },
+
+        "cat" : {"definition" : " " }, 
+
+        "dog" : {"definition" : " " }, 
+
+        "duck" : {"definition" : " " }, 
+
+        "fish" : {"definition" : " " }, 
+
+        "frog" : {"definition" : " " }, 
+
+        "goat" : {"definition" : " " }, 
+
+        "sheep" : {"definition" : " " }, 
+
+        "snake" : {"definition" : " " }, 
+
+        "spider" : {"definition" : " " }, 
+
+        "school" : {"definition" : " " }, 
+
+        "alphabet" : {"definition" : " " }, 
+
+        "letter" : {"definition" : " " }, 
+
+        "draw" : {"definition" : " " }, 
+
+        "say" : {"definition" : " " }, 
+
+        "spell" : {"definition" : " " }
+
+    }
+}

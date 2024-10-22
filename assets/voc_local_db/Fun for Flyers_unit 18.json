@@ -1,0 +1,75 @@
+{ "words" :
+
+    {
+        "businesswoman" : {"definition" : " " },
+
+        "engineer" : {"definition" : " " },
+
+        "factory" : {"definition" : " " },
+
+        "internet" : {"definition" : " " },
+
+        "meeting" : {"definition" : " " },
+
+        "city centre" : {"definition" : " " },
+
+        "London" : {"definition" : " " },
+
+        "a.m." : {"definition" : " " },
+
+        "p.m." : {"definition" : " " },
+
+        "clock" : {"definition" : " " },
+
+        "evening" : {"definition" : " " },
+
+        "half past" : {"definition" : " " },
+
+        "night" : {"definition" : " " },
+
+        "quater past" : {"definition" : " " },
+
+        "quater to" : {"definition" : " " },
+
+        "watch" : {"definition" : " " },
+
+        "conversation" : {"definition" : " " },
+
+        "begin" : {"definition" : " " },
+
+        "come home for lunch" : {"definition" : " " },
+
+        "design" : {"definition" : " " },
+
+        "finish" : {"definition" : " " },
+
+        "get up" : {"definition" : " " },
+
+        "go online" : {"definition" : " " },
+
+        "have enough time" : {"definition" : " " },
+
+        "send messages" : {"definition" : " " },
+
+        "start" : {"definition" : " " },
+
+        "talk to each other" : {"definition" : " " },
+
+        "visit" : {"definition" : " " },
+
+        "different" : {"definition" : " " },
+
+        "first" : {"definition" : " " },
+
+        "funny" : {"definition" : " " },
+
+        "last" : {"definition" : " " },
+
+        "Oh dear!" : {"definition" : " " },
+
+        "My watch is wrong." : {"definition" : " " },
+
+        "What's the time?" : {"definition" : " " }
+        
+    }
+}

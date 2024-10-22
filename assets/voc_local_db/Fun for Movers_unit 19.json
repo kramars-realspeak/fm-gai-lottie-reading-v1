@@ -1,0 +1,45 @@
+{ "words" :
+
+    {
+        "backache" : {"definition" : " " },
+
+        "cold" : {"definition" : " " },
+
+        "cough" : {"definition" : " " },
+
+        "dentist" : {"definition" : " " },
+
+        "earache" : {"definition" : " " },
+
+        "headache" : {"definition" : " " },
+
+        "stomach-ache" : {"definition" : " " },
+
+        "toothache" : {"definition" : " " },
+
+        "boy" : {"definition" : " " },
+
+        "girl" : {"definition" : " " },
+
+        "man" : {"definition" : " " },
+
+        "woman" : {"definition" : " " },
+
+        "fix" : {"definition" : " " },
+
+        "hurt" : {"definition" : " " },
+
+        "all right" : {"definition" : " " },
+
+        "awake" : {"definition" : " " },
+
+        "fine" : {"definition" : " " },
+
+        "practice" : {"definition" : " " },
+
+        "Don't worry!" : {"definition" : " " },
+
+        "What's the matter?" : {"definition" : " " }
+
+    }
+}

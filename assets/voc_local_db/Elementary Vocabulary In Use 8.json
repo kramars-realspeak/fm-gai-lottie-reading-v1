@@ -1,0 +1,37 @@
+{ "words" :
+
+    {
+        "good morning" : {"definition" : " " },
+
+        "good afternoon" : {"definition" : " " },
+
+        "good evening" : {"definition" : " " },
+
+        "goodbye" : {"definition" : " " },
+
+        "See you soon!" : {"definition" : " " },
+
+        "Sleep well!" : {"definition" : " " },
+
+        "please" : {"definition" : " " },
+
+        "thank you" : {"definition" : " " },
+
+        "Cheers!" : {"definition" : " " },
+
+        "Happy Birtday!" : {"definition" : " " },
+
+        "Happy Christmas!" : {"definition" : " " },
+
+        "Merry Christmas!" : {"definition" : " " },
+
+        "Happy New Year!" : {"definition" : " " },
+
+        "Good luck!" : {"definition" : " " },
+
+        "Congratulations!" : {"definition" : " " },
+
+        "Well done!" : {"definition" : " " }
+        
+    }
+}

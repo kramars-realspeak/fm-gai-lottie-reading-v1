@@ -1,0 +1,29 @@
+{ "words" :
+
+    {
+        "get up" : {"definition" : " " },
+
+        "get on" : {"definition" : " " },
+
+        "get off" : {"definition" : " " },
+
+        "turn on" : {"definition" : " " },
+
+        "turn off" : {"definition" : " " },
+
+        "turn up" : {"definition" : " " },
+
+        "turn down" : {"definition" : " " },
+
+        "go on" : {"definition" : " " },
+
+        "go off" : {"definition" : " " },
+
+        "pun on" : {"definition" : " " },
+
+        "come on" : {"definition" : " " },
+
+        "take off" : {"definition" : " " }
+
+    }
+}
